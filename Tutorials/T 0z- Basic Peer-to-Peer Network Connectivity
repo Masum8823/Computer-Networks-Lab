@@ -1,0 +1,111 @@
+# ⭐ Basic Peer-to-Peer Network (Star Topology using Switch)
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Topic](https://img.shields.io/badge/Topic-Star%20Topology-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Tested%20%26%20Working-brightgreen?style=for-the-badge)
+
+> এই নোটটা আমার CN Lab এর কাজ থেকে বানানো — একটা Switch এর মাধ্যমে ৫টা PC কানেক্ট করে একটা বেসিক **Star Topology** পিয়ার-টু-পিয়ার নেটওয়ার্ক তৈরি করা হয়েছে।
+
+---
+
+## 📑 Table of Contents
+
+| # | Section |
+|---|---------|
+| 1 | [Overview](#overview) |
+| 2 | [Selecting Devices](#selecting-devices) |
+| 3 | [Cabling](#cabling) |
+| 4 | [IP Configuration](#ip-configuration) |
+| 5 | [Testing the Connection](#testing) |
+| 6 | [Quick Reference Table](#quick-reference) |
+| 7 | [Key Learnings](#learnings) |
+
+---
+
+<a id="overview"></a>
+## 1️⃣ Overview
+
+একটা কেন্দ্রীয় **Switch** এর চারপাশে ৫টা PC (PC0 – PC4) কানেক্ট করে Star Topology বানানো হয়েছে। সব PC একই Class C IP সিরিজে (`192.168.1.x`) থাকবে যাতে তারা একে অপরের সাথে যোগাযোগ করতে পারে।
+
+```
+        PC0
+         |
+PC1 --- Switch --- PC3
+         |
+        PC2   PC4
+
+     192.168.1.1 – 192.168.1.5
+```
+
+---
+
+<a id="selecting-devices"></a>
+## 2️⃣ Selecting Devices (ডিভাইস নেওয়া)
+
+1. নিচে বাম দিকে **Network Devices** → **Switches** → `2960` মডেলের Switch টেনে মাঝখানে বসাও।
+2. **End Devices** → **PC** আইকন নিয়ে ৫টা PC (`PC0` থেকে `PC4`) Switch এর চারপাশে সাজাও।
+
+---
+
+<a id="cabling"></a>
+## 3️⃣ Cabling (তার সংযোগ)
+
+Switch আর PC দুইটা আলাদা ধরনের ডিভাইস, তাই কানেক্ট করতে **Copper Straight-Through** তার (সলিড কালো রেখা) লাগবে:
+
+1. নিচে বাম কোণার বজ্রপাত (**Connections**) আইকনে ক্লিক করে সলিড কালো তার সিলেক্ট করো।
+2. PC তে ক্লিক করে `FastEthernet0`, Switch এ ক্লিক করে `FastEthernet0/1` সিলেক্ট করো।
+3. বাকি ৪টা PC কেও Switch এর আলাদা আলাদা পোর্টে কানেক্ট করো (যেমন: `Fa0/2`, `Fa0/3`, `Fa0/4`, `Fa0/5`)।
+
+> ⚠️ **নোট:** শুরুতে বাতিগুলো **কমলা (Orange)** থাকবে, প্রায় ৩০ সেকেন্ড পর সেগুলো **সবুজ (Green)** হয়ে যাবে।
+
+---
+
+<a id="ip-configuration"></a>
+## 4️⃣ IP Configuration
+
+প্রতিটা PC তে ক্লিক করে **Desktop → IP Configuration** এ গিয়ে বসাও (Class C রেঞ্জ ব্যবহার করা হয়েছে):
+
+| PC | IPv4 Address | Subnet Mask |
+|---|---|---|
+| PC0 | `192.168.1.1` | `255.255.255.0` (auto) |
+| PC1 | `192.168.1.2` | `255.255.255.0` |
+| PC2 | `192.168.1.3` | `255.255.255.0` |
+| PC3 | `192.168.1.4` | `255.255.255.0` |
+| PC4 | `192.168.1.5` | `255.255.255.0` |
+
+> Subnet Mask ফিল্ডে ক্লিক করলেই অটোমেটিক `255.255.255.0` বসে যাবে।
+
+---
+
+<a id="testing"></a>
+## 5️⃣ Testing the Connection
+
+1. সবুজ বাতি জ্বলে ওঠার পর ডান পাশের মেনু থেকে বন্ধ খাম (**Simple PDU**) আইকন নাও।
+2. প্রথমে **PC0** এ ক্লিক করো, তারপর **PC3** এ ক্লিক করো।
+3. নিচে ডান কোণায় **"Successful"** লেখা আসলে বুঝবে কানেকশন ঠিক আছে।
+
+---
+
+<a id="quick-reference"></a>
+## 6️⃣ Quick Reference Table
+
+| PC | Port on Switch | IP Address |
+|---|---|---|
+| PC0 | Fa0/1 | `192.168.1.1` |
+| PC1 | Fa0/2 | `192.168.1.2` |
+| PC2 | Fa0/3 | `192.168.1.3` |
+| PC3 | Fa0/4 | `192.168.1.4` |
+| PC4 | Fa0/5 | `192.168.1.5` |
+
+---
+
+<a id="learnings"></a>
+## 7️⃣ Key Learnings
+
+- ⭐ **Star Topology**: কেন্দ্রীয় ডিভাইস (Switch) থাকে। কোনো PC এর তার ছিঁড়ে গেলেও বাকি নেটওয়ার্ক সচল থাকে — কিন্তু Switch নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে যায় (Single Point of Failure)।
+- 🧠 **Switching Logic**: Switch প্রতিটা PC এর MAC Address মনে রাখে, তাই PC0 → PC3 মেসেজ পাঠালে সেটা শুধু PC3 এর পোর্টেই যায় — Hub এর মতো সবাইকে ডিস্টার্ব করে না।
+- 🔌 **Straight-Through Cable**: PC থেকে Switch কানেক্ট করতে সবসময় এই তারই লাগে (দুইটা ভিন্ন ধরনের ডিভাইসের মধ্যে সংযোগ)।
+
+---
+
+⭐ *Personal lab note — CN Course, Packet Tracer.*
