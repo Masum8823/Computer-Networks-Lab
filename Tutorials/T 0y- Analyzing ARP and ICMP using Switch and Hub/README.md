@@ -6,6 +6,11 @@
 
 > এই নোটটা আমার CN Lab এর কাজ থেকে বানানো — একই নেটওয়ার্কে **Switch** আর **Hub** পাশাপাশি রেখে দেখা হয়েছে ডেটা পাঠানোর সময় তাদের আচরণ কেমন আলাদা (Simulation Mode এ ARP/ICMP প্যাকেট ট্রেস করে)।
 
+
+## Connection in Cisco Packet Tracer:
+
+![config](arp-icmp-using-switch-hub.png)
+
 ---
 
 ## 📑 Table of Contents
