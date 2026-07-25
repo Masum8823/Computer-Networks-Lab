@@ -8,6 +8,13 @@
 
 ---
 
+
+## Connection in Cisco Packet Tracer:
+
+![config](connecting-two-lans-using-router.png)
+
+---
+
 ## 📑 Table of Contents
 
 | # | Section |
