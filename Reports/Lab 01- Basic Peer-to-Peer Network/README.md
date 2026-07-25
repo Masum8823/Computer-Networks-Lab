@@ -1,4 +1,4 @@
-# Lab 01: Introduction to Cisco Packet Tracer and Basic Network Connectivity
+# Lab 01: Basic Peer-to-Peer Network Connectivity
 
 ## Overview
 
