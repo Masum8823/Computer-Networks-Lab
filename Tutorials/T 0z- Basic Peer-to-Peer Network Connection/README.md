@@ -8,6 +8,12 @@
 
 ---
 
+## Connection in Cisco Packet Tracer:
+
+![config](p2p-connection.png)
+
+---
+
 ## 📑 Table of Contents
 
 | # | Section |
