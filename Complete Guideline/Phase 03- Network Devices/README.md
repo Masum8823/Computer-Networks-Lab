@@ -253,3 +253,65 @@ Gateway হলো এমন একটি Device, যা দুইটি ভি�
 | Router | Layer 3 |
 
 ---
+
+# Viva Questions
+
+### 1. NIC কী?
+
+Computer-কে Network-এর সাথে Connect করার Hardware।
+
+---
+
+### 2. Hub কোন Layer-এ কাজ করে?
+
+Layer 1 (Physical Layer)
+
+---
+
+### 3. Switch কোন Address ব্যবহার করে?
+
+MAC Address
+
+---
+
+### 4. Router কোন Address ব্যবহার করে?
+
+IP Address
+
+---
+
+### 5. Router কোন Layer-এ কাজ করে?
+
+Layer 3 (Network Layer)
+
+---
+
+### 6. Repeater-এর কাজ কী?
+
+Weak Signal পুনরায় শক্তিশালী করা।
+
+---
+
+### 7. Bridge-এর কাজ কী?
+
+দুটি LAN Segment Connect করা।
+
+---
+
+### 8. Modem-এর পূর্ণরূপ কী?
+
+Modulator-Demodulator
+
+---
+
+### 9. Access Point কী?
+
+Wireless Network প্রদানকারী Device।
+
+---
+
+### 10. Default Gateway কী?
+
+Router-এর IP Address।
+
+---
