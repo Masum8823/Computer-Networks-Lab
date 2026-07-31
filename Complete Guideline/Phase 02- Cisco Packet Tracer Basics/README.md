@@ -136,3 +136,16 @@ Packet Tracer-এ Devices Connect করার জন্য বিভিন্�
 সবচেয়ে গুরুত্বপূর্ণ Cable ৪টি।
 
 ---
+
+## 1. Copper Straight-Through Cable
+
+### ব্যবহার
+
+Different Devices Connect করতে।
+
+### Example
+
+- PC ↔ Switch
+- Switch ↔ Router
+
+---
