@@ -117,3 +117,15 @@ End Device হলো যেসব Device User সরাসরি ব্যবহ
 - IP Phone
 
 ---
+# Network Devices
+
+Network তৈরির জন্য যেসব Device ব্যবহার করা হয়।
+
+### Example
+
+- Hub
+- Switch
+- Router
+- Access Point
+
+---
