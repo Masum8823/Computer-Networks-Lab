@@ -315,3 +315,16 @@ Wireless Network প্রদানকারী Device।
 Router-এর IP Address।
 
 ---
+
+# Common Mistakes
+
+> [!WARNING]
+> Hub এবং Switch এক জিনিস নয়।
+
+> [!WARNING]
+> Router MAC Address দেখে Packet Forward করে না, IP Address দেখে।
+
+> [!WARNING]
+> Switch Different LAN Connect করতে পারে না।
+
+---
