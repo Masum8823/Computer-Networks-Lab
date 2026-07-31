@@ -234,3 +234,21 @@ Gateway : 192.168.1.1
 ```
 
 ---
+
+# Testing Connection
+
+Command Prompt খুলে লিখো—
+
+```bash
+ping 192.168.1.1
+```
+
+যদি নিচের মতো Reply আসে—
+
+```text
+Reply from 192.168.1.1
+```
+
+তাহলে Connection Successful।
+
+---
