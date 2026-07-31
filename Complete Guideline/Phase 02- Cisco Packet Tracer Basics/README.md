@@ -190,3 +190,10 @@ Realtime Mode-এ Network Live অবস্থায় কাজ করে।
 সব Configuration সাথে সাথে কার্যকর হয়।
 
 ---
+# Simulation Mode
+
+Simulation Mode-এ Packet কীভাবে এক Device থেকে অন্য Device-এ যায়, তা Step by Step দেখা যায়।
+
+এটি ARP, ICMP, RIP ইত্যাদি বোঝার জন্য খুবই গুরুত্বপূর্ণ।
+
+---
