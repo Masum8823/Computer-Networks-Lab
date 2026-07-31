@@ -203,3 +203,16 @@ Modem-এর পূর্ণরূপ **Modulator-Demodulator**।
 - Home Broadband Connection
 
 ---
+
+# 8. Access Point (AP)
+
+## Definition
+
+Access Point একটি Wireless Network Device, যা Wi-Fi-এর মাধ্যমে Device-কে Network-এ Connect করে।
+
+### Example
+
+- Wi-Fi Router
+- Office Wireless Network
+
+---
