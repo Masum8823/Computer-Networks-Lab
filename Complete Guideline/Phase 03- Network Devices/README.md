@@ -68,3 +68,11 @@ Hub হলো একটি **Layer 1 (Physical Layer)** Device।
 - MAC Address ব্যবহার করে না
 - Broadcast করে
 - Collision বেশি হয়
+
+### Diagram
+
+```text
+      Hub
+   /   |   \
+ PC1  PC2  PC3
+```
