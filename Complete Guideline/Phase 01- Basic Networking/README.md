@@ -221,3 +221,19 @@ Latency যত কম হবে, Network তত দ্রুত অনুভূ�
 - Internet → WAN
 
 ---
+
+# Network Topology (Introduction)
+
+Topology হলো Network-এর Device-গুলো কীভাবে Connected আছে তার Layout।
+
+জনপ্রিয় Topology:
+
+- Bus
+- Star
+- Ring
+- Mesh
+- Tree
+
+> বিস্তারিত Topology আলাদা Chapter-এ আলোচনা করা হবে।
+
+---
