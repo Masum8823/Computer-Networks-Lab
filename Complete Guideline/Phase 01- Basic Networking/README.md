@@ -345,3 +345,11 @@ Wide Area Network
 - WAN = Internet
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Viva-তে Definition বলার পর একটি Example দিলে ভালো Impression তৈরি হয়।
+
+> [!TIP]
+> IP Address, MAC Address, Router, Switch, ARP এবং ICMP ভালোভাবে বুঝে রাখো। এগুলো থেকেই সবচেয়ে বেশি প্রশ্ন আসে।
