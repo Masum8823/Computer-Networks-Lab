@@ -25,3 +25,21 @@
 - Quick Revision
 
 ---
+
+# What is Cisco Packet Tracer?
+
+**Cisco Packet Tracer** হলো একটি **Network Simulation Software**, যেখানে বাস্তব Router, Switch, PC ইত্যাদি ব্যবহার না করেও Virtual Network তৈরি করা যায়।
+
+### Developed By
+
+- Cisco Systems
+
+### Used For
+
+- Learning Networking
+- CCNA Practice
+- Network Design
+- Network Simulation
+- Lab Practice
+
+---
