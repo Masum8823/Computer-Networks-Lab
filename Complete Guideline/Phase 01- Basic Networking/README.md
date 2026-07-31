@@ -143,3 +143,17 @@ Server <-------- Response --------
 - Google → Server
 
 ---
+
+# Data
+
+Data হলো এমন Information যা Network-এর মাধ্যমে এক Device থেকে অন্য Device-এ পাঠানো হয়।
+
+### Example
+
+- Text
+- Image
+- Audio
+- Video
+- PDF
+
+---
