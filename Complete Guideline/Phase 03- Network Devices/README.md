@@ -60,3 +60,11 @@ NIC (Network Interface Card) হলো এমন একটি Hardware Component
 Hub হলো একটি **Layer 1 (Physical Layer)** Device।
 
 এটি কোনো Data বুঝতে পারে না। একটি Port-এ Data আসলে সেটি সব Port-এ পাঠিয়ে দেয়।
+
+### Characteristics
+
+- Layer 1 Device
+- Intelligent নয়
+- MAC Address ব্যবহার করে না
+- Broadcast করে
+- Collision বেশি হয়
