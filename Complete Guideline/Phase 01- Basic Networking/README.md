@@ -102,3 +102,17 @@ Network-এর সাথে Connected যেকোনো Device-কে **Node** 
 - Server
 
 ---
+
+# Client
+
+## Definition
+
+যে Device বা Software অন্য Device থেকে Service Request করে, তাকে **Client** বলে।
+
+### Example
+
+তুমি Browser দিয়ে Google খুললে,
+
+তোমার Computer = Client
+
+---
