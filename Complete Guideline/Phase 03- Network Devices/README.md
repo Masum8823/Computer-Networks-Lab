@@ -113,3 +113,10 @@ Switch হলো **Layer 2 (Data Link Layer)** Device।
     /    |    \
   PC1   PC2   PC3
 ```
+
+
+### Advantages
+
+- Fast Communication
+- Security বেশি
+- Collision কম
