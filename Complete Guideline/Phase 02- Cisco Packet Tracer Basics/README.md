@@ -104,3 +104,16 @@ Packet Tracer-এ বিভিন্ন ধরনের Device পাওয়�
 - Wireless Devices
 
 ---
+# End Devices
+
+End Device হলো যেসব Device User সরাসরি ব্যবহার করে।
+
+### Example
+
+- PC
+- Laptop
+- Server
+- Printer
+- IP Phone
+
+---
