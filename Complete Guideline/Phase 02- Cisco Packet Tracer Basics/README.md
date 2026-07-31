@@ -149,3 +149,20 @@ Different Devices Connect করতে।
 - Switch ↔ Router
 
 ---
+
+## 2. Copper Cross-Over Cable
+
+### ব্যবহার
+
+Same Type Device Connect করতে।
+
+### Example
+
+- PC ↔ PC
+- Switch ↔ Switch
+- Router ↔ Router
+
+> [!IMPORTANT]
+> তোমাদের Lab-এ Peer-to-Peer Network-এর জন্য সাধারণত Cross-Over Cable ব্যবহার করা হয়।
+
+---
