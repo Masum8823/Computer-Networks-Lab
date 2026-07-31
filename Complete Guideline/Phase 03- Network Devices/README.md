@@ -120,3 +120,9 @@ Switch হলো **Layer 2 (Data Link Layer)** Device।
 - Fast Communication
 - Security বেশি
 - Collision কম
+
+### Disadvantages
+
+- Hub-এর তুলনায় দাম বেশি
+
+---
