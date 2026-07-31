@@ -180,6 +180,19 @@ Protocol হলো Communication-এর Rules বা নিয়ম।
 | ARP | IP → MAC |
 
 > [!IMPORTANT]
-> পরীক্ষায় Proto
+> পরীক্ষায় Protocol-এর Definition-এর সাথে অন্তত ২–৩টি Example লিখলে উত্তর আরও ভালো হবে।
+
+---
+
+# Bandwidth
+
+Bandwidth হলো একটি Network প্রতি সেকেন্ডে সর্বোচ্চ কত Data Transfer করতে পারে।
+
+### Unit
+
+- bps
+- Kbps
+- Mbps
+- Gbps
 
 ---
