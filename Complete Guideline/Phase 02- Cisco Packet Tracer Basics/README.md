@@ -182,3 +182,11 @@ PC ↔ Router Console Port
 Long Distance এবং High Speed Communication-এর জন্য ব্যবহার করা হয়।
 
 ---
+
+# Realtime Mode
+
+Realtime Mode-এ Network Live অবস্থায় কাজ করে।
+
+সব Configuration সাথে সাথে কার্যকর হয়।
+
+---
