@@ -89,3 +89,11 @@ Hub হলো একটি **Layer 1 (Physical Layer)** Device।
 - Security কম
 
 ---
+
+# 3. Switch
+
+## Definition
+
+Switch হলো **Layer 2 (Data Link Layer)** Device।
+
+এটি MAC Address দেখে নির্দিষ্ট Device-এ Data পাঠায়।
