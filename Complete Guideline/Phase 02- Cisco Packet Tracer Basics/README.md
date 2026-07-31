@@ -217,3 +217,20 @@ PC -------- Switch
 ```
 
 ---
+# Basic IP Configuration
+
+PC-তে ক্লিক করো।
+
+Desktop → IP Configuration
+
+তারপর—
+
+```text
+IP Address : 192.168.1.10
+
+Subnet Mask : 255.255.255.0
+
+Gateway : 192.168.1.1
+```
+
+---
