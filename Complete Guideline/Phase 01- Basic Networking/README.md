@@ -237,3 +237,14 @@ Topology হলো Network-এর Device-গুলো কীভাবে Connect
 > বিস্তারিত Topology আলাদা Chapter-এ আলোচনা করা হবে।
 
 ---
+
+# Advantages of Computer Network
+
+- File Sharing
+- Resource Sharing
+- Fast Communication
+- Internet Sharing
+- Easy Backup
+- Centralized Management
+
+---
