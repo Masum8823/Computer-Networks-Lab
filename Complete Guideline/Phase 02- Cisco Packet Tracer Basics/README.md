@@ -43,3 +43,20 @@
 - Lab Practice
 
 ---
+
+# Why Do We Use Packet Tracer?
+
+Packet Tracer ব্যবহারের প্রধান কারণগুলো—
+
+- Network Design করা
+- Router Configure করা
+- Switch Configure করা
+- IP Configuration শেখা
+- Ping Test করা
+- Routing Practice করা
+- Lab Practice করা
+
+> [!TIP]
+> বাস্তব Network Device ছাড়াই Lab Practice করার জন্য Packet Tracer সবচেয়ে জনপ্রিয় Software।
+
+---
