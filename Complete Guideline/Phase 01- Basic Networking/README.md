@@ -196,3 +196,10 @@ Bandwidth হলো একটি Network প্রতি সেকেন্ড�
 - Gbps
 
 ---
+# Latency
+
+Latency হলো Source থেকে Destination-এ Data পৌঁছাতে যত সময় লাগে।
+
+Latency যত কম হবে, Network তত দ্রুত অনুভূত হবে।
+
+---
