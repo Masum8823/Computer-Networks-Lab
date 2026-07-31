@@ -157,3 +157,29 @@ Data হলো এমন Information যা Network-এর মাধ্যমে
 - PDF
 
 ---
+
+# Protocol
+
+Protocol হলো Communication-এর Rules বা নিয়ম।
+
+যদি দুই Device একই Protocol Follow না করে, তাহলে তারা Communication করতে পারবে না।
+
+### Common Network Protocols
+
+| Protocol | কাজ |
+|----------|-----|
+| HTTP | Website |
+| HTTPS | Secure Website |
+| FTP | File Transfer |
+| SMTP | Send Email |
+| POP3 | Receive Email |
+| IMAP | Receive Email |
+| DNS | Domain → IP |
+| DHCP | Automatic IP Assignment |
+| ICMP | Ping |
+| ARP | IP → MAC |
+
+> [!IMPORTANT]
+> পরীক্ষায় Proto
+
+---
