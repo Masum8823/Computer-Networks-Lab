@@ -203,3 +203,21 @@ Latency হলো Source থেকে Destination-এ Data পৌঁছাতে
 Latency যত কম হবে, Network তত দ্রুত অনুভূত হবে।
 
 ---
+
+# Types of Network
+
+| Type | Full Form | Coverage |
+|------|-----------|----------|
+| PAN | Personal Area Network | ১–১০ মিটার |
+| LAN | Local Area Network | Room / Building |
+| MAN | Metropolitan Area Network | City |
+| WAN | Wide Area Network | Country / World |
+
+### Example
+
+- Bluetooth → PAN
+- Computer Lab → LAN
+- City Network → MAN
+- Internet → WAN
+
+---
