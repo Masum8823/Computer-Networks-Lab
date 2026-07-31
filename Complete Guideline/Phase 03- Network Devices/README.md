@@ -134,3 +134,10 @@ Switch হলো **Layer 2 (Data Link Layer)** Device।
 Router হলো **Layer 3 (Network Layer)** Device।
 
 এটি বিভিন্ন Network (Different LAN)-কে Connect করে এবং IP Address ব্যবহার করে Packet Forward করে।
+
+### Characteristics
+
+- Layer 3 Device
+- IP Address ব্যবহার করে
+- Routing করে
+- Internet Connect করে
