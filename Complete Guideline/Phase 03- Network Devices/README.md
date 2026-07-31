@@ -76,3 +76,8 @@ Hub হলো একটি **Layer 1 (Physical Layer)** Device।
    /   |   \
  PC1  PC2  PC3
 ```
+
+### Advantages
+
+- দাম কম
+- Setup সহজ
