@@ -176,3 +176,16 @@ Bridge হলো **Layer 2 Device**, যা দুটি LAN Segment-কে য�
 - MAC Address ব্যবহার করে
 
 ---
+
+# 6. Repeater
+
+## Definition
+
+Repeater হলো **Layer 1 Device**, যা দুর্বল Signal-কে পুনরায় শক্তিশালী (Regenerate) করে।
+
+### Uses
+
+- Long Distance Communication
+- Signal Boost
+
+---
