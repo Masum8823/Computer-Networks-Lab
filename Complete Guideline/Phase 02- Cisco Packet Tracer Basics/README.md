@@ -278,3 +278,65 @@ Reply from 192.168.1.1
 > Router Interface Shutdown থাকলে Ping হবে না।
 
 ---
+
+# Viva Questions
+
+### 1. Cisco Packet Tracer কী?
+
+Cisco Packet Tracer হলো একটি Network Simulation Software।
+
+---
+
+### 2. Packet Tracer কে তৈরি করেছে?
+
+Cisco Systems।
+
+---
+
+### 3. Packet Tracer কেন ব্যবহার করা হয়?
+
+Virtual Network Design, Configuration এবং Testing করার জন্য।
+
+---
+
+### 4. Realtime Mode কী?
+
+Live অবস্থায় Network Simulation চালায়।
+
+---
+
+### 5. Simulation Mode কী?
+
+Packet-এর যাত্রাপথ Step by Step দেখায়।
+
+---
+
+### 6. Straight-Through Cable কোথায় ব্যবহার হয়?
+
+Different Devices-এর মধ্যে।
+
+---
+
+### 7. Cross-Over Cable কোথায় ব্যবহার হয়?
+
+Same Type Devices-এর মধ্যে।
+
+---
+
+### 8. Console Cable-এর কাজ কী?
+
+Router বা Switch Configure করা।
+
+---
+
+### 9. Fiber Cable কেন ব্যবহার করা হয়?
+
+Long Distance ও High Speed Communication-এর জন্য।
+
+---
+
+### 10. Ping কী কাজে ব্যবহার হয়?
+
+Network Connection পরীক্ষা করতে।
+
+---
