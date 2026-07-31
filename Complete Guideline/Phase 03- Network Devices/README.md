@@ -227,3 +227,17 @@ Gateway হলো এমন একটি Device, যা দুইটি ভি�
 > Lab-এ "Default Gateway" বলতে সাধারণত Router-এর IP Address-কে বোঝানো হয়।
 
 ---
+
+# Hub vs Switch vs Router
+
+| Feature | Hub | Switch | Router |
+|----------|-----|--------|---------|
+| OSI Layer | Layer 1 | Layer 2 | Layer 3 |
+| Address Used | None | MAC | IP |
+| Intelligent | No | Yes | Yes |
+| Collision | High | Low | Very Low |
+| Speed | Slow | Fast | Fast |
+| Broadcast | Yes | No (Normal Data) | No |
+| Connects | Same LAN | Same LAN | Different LAN |
+
+---
