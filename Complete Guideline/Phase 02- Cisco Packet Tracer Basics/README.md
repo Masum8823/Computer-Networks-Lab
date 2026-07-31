@@ -340,3 +340,19 @@ Long Distance ও High Speed Communication-এর জন্য।
 Network Connection পরীক্ষা করতে।
 
 ---
+# Quick Revision
+
+- Cisco Packet Tracer = Network Simulation Software
+- Developed By = Cisco Systems
+- Workspace = Logical + Physical
+- End Device = PC, Laptop, Server
+- Network Device = Hub, Switch, Router
+- Straight Cable = Different Devices
+- Cross Cable = Same Devices
+- Console Cable = Router/Switch Configuration
+- Fiber Cable = Long Distance
+- Realtime = Live Mode
+- Simulation = Packet Flow
+- Ping = Connection Test
+
+---
