@@ -25,3 +25,20 @@
 - Quick Revision
 
 ---
+
+# What is a Computer Network?
+
+A **Computer Network** is a collection of two or more interconnected devices that communicate with each other to share data and resources.
+
+**বাংলায়:**
+
+Computer Network হলো দুই বা ততোধিক Computer বা Device-এর মধ্যে Data এবং Resource Share করার জন্য তৈরি সংযোগ।
+
+### Example
+
+- Home Wi-Fi
+- Computer Lab
+- Office Network
+- University Campus Network
+
+---
