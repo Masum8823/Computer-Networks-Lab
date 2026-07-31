@@ -331,3 +331,17 @@ Wide Area Network
 > Protocol মুখস্থ করলেই হবে না, কাজও জানতে হবে।
 
 ---
+# Quick Revision
+
+- Computer Network = Data & Resource Sharing
+- Node = Connected Device
+- Host = Device with IP Address
+- Client = Requests Service
+- Server = Provides Service
+- Protocol = Communication Rules
+- Bandwidth = Maximum Data Transfer Capacity
+- Latency = Delay
+- LAN = Building
+- WAN = Internet
+
+---
