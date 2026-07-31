@@ -116,3 +116,16 @@ Network-এর সাথে Connected যেকোনো Device-কে **Node** 
 তোমার Computer = Client
 
 ---
+# Server
+
+## Definition
+
+যে Device বা Software Client-এর Request গ্রহণ করে Service প্রদান করে, তাকে **Server** বলে।
+
+### Example
+
+- Google Server
+- Facebook Server
+- University Server
+
+---
