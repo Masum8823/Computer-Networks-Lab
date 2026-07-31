@@ -252,3 +252,13 @@ Reply from 192.168.1.1
 তাহলে Connection Successful।
 
 ---
+
+# Realtime vs Simulation
+
+| Realtime | Simulation |
+|-----------|------------|
+| Live Communication | Step-by-Step Communication |
+| দ্রুত কাজ করে | Packet Flow দেখায় |
+| সাধারণ Lab | শেখার জন্য বেশি উপযোগী |
+
+---
