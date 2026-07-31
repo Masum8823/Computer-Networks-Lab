@@ -356,3 +356,11 @@ Network Connection পরীক্ষা করতে।
 - Ping = Connection Test
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Viva-তে Cable Type থেকে প্রশ্ন খুবই Common। তাই Straight-Through, Cross-Over এবং Console Cable-এর ব্যবহার অবশ্যই মুখস্থ রাখবে।
+
+> [!TIP]
+> Packet Tracer-এর Simulation Mode ব্যবহার করে ARP ও ICMP Packet Flow একবার দেখে নিলে পরবর্তী Chapter অনেক সহজ লাগবে।
