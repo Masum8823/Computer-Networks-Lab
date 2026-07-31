@@ -24,3 +24,9 @@
 - Quick Revision
 
 ---
+
+# What is a Network Device?
+
+Network Device হলো এমন Hardware যা বিভিন্ন Computer বা Network-কে একে অপরের সাথে Connect করে এবং Data আদান-প্রদান নিশ্চিত করে।
+
+---
