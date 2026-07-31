@@ -97,3 +97,12 @@ Hub হলো একটি **Layer 1 (Physical Layer)** Device।
 Switch হলো **Layer 2 (Data Link Layer)** Device।
 
 এটি MAC Address দেখে নির্দিষ্ট Device-এ Data পাঠায়।
+
+### Characteristics
+
+- Layer 2 Device
+- MAC Address ব্যবহার করে
+- Intelligent Device
+- Collision কম
+- Speed বেশি
+
