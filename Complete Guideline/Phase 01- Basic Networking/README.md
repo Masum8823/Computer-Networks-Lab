@@ -248,3 +248,11 @@ Topology হলো Network-এর Device-গুলো কীভাবে Connect
 - Centralized Management
 
 ---
+# Disadvantages of Computer Network
+
+- Security Risk
+- Virus ছড়াতে পারে
+- Network Failure হলে কাজ বন্ধ
+- Maintenance Cost
+
+---
