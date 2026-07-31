@@ -81,3 +81,11 @@ Hub হলো একটি **Layer 1 (Physical Layer)** Device।
 
 - দাম কম
 - Setup সহজ
+
+### Disadvantages
+
+- Speed কম
+- Collision বেশি
+- Security কম
+
+---
