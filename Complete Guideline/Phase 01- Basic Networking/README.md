@@ -88,3 +88,17 @@ Network-এর সাথে Connected যেকোনো Device-কে **Node** 
 > **সব Host হলো Node, কিন্তু সব Node Host নয়।**
 
 ---
+# Host
+
+## Definition
+
+যে Device-এর নিজস্ব IP Address থাকে এবং Network-এ Data Send/Receive করতে পারে, তাকে **Host** বলে।
+
+### Example
+
+- Computer
+- Laptop
+- Mobile
+- Server
+
+---
