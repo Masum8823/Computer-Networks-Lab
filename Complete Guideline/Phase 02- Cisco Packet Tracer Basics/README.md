@@ -73,3 +73,23 @@ Packet Tracer খুললে প্রধানত নিচের অংশগ
 - Simulation Mode
 
 ---
+
+# Workspace
+
+Workspace হলো যেখানে আমরা Network Design করি।
+
+দুই ধরনের Workspace আছে।
+
+## 1. Logical Workspace
+
+এখানে Logical Network তৈরি করা হয়।
+
+এই Workspace-ই Lab-এ সবচেয়ে বেশি ব্যবহার করা হয়।
+
+---
+
+## 2. Physical Workspace
+
+এখানে বাস্তব Room বা Building অনুযায়ী Network Layout দেখা যায়।
+
+---
