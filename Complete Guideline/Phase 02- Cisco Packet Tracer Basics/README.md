@@ -176,3 +176,9 @@ Router বা Switch Configure করার জন্য ব্যবহার �
 PC ↔ Router Console Port
 
 ---
+
+## 4. Fiber Cable
+
+Long Distance এবং High Speed Communication-এর জন্য ব্যবহার করা হয়।
+
+---
