@@ -126,3 +126,11 @@ Switch হলো **Layer 2 (Data Link Layer)** Device।
 - Hub-এর তুলনায় দাম বেশি
 
 ---
+
+# 4. Router
+
+## Definition
+
+Router হলো **Layer 3 (Network Layer)** Device।
+
+এটি বিভিন্ন Network (Different LAN)-কে Connect করে এবং IP Address ব্যবহার করে Packet Forward করে।
