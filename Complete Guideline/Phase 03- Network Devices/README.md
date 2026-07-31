@@ -189,3 +189,13 @@ Repeater হলো **Layer 1 Device**, যা দুর্বল Signal-কে �
 - Signal Boost
 
 ---
+
+# 7. Modem
+
+## Definition
+
+Modem-এর পূর্ণরূপ **Modulator-Demodulator**।
+
+এটি Digital Signal-কে Analog Signal-এ এবং Analog Signal-কে Digital Signal-এ রূপান্তর করে।
+
+### Uses
