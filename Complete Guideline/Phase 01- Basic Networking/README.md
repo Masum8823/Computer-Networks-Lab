@@ -256,3 +256,65 @@ Topology হলো Network-এর Device-গুলো কীভাবে Connect
 - Maintenance Cost
 
 ---
+
+# Viva Questions
+
+### 1. Computer Network কী?
+
+Computer Network হলো দুই বা ততোধিক Device-এর মধ্যে Data এবং Resource Share করার জন্য তৈরি সংযোগ।
+
+---
+
+### 2. Node কী?
+
+Network-এর সাথে Connected যেকোনো Device-কে Node বলে।
+
+---
+
+### 3. Host কী?
+
+যে Device-এর IP Address থাকে এবং Data Send/Receive করতে পারে, তাকে Host বলে।
+
+---
+
+### 4. Client কী?
+
+যে Service Request করে।
+
+---
+
+### 5. Server কী?
+
+যে Service প্রদান করে।
+
+---
+
+### 6. Protocol কী?
+
+Communication-এর Rules বা নিয়ম।
+
+---
+
+### 7. Bandwidth কী?
+
+Network-এর সর্বোচ্চ Data Transfer Capacity।
+
+---
+
+### 8. Latency কী?
+
+Data পৌঁছাতে যে সময় লাগে।
+
+---
+
+### 9. LAN-এর পূর্ণরূপ কী?
+
+Local Area Network
+
+---
+
+### 10. WAN-এর পূর্ণরূপ কী?
+
+Wide Area Network
+
+---
