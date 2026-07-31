@@ -328,3 +328,18 @@ Router-এর IP Address।
 > Switch Different LAN Connect করতে পারে না।
 
 ---
+
+# Quick Revision
+
+- NIC = Connects Computer to Network
+- Hub = Layer 1 = Broadcast
+- Switch = Layer 2 = MAC Address
+- Router = Layer 3 = IP Address
+- Bridge = Connects LAN Segments
+- Repeater = Signal Boost
+- Modem = Digital ↔ Analog
+- Access Point = Wi-Fi
+- Gateway = Connects Different Networks
+- Default Gateway = Router IP
+
+---
