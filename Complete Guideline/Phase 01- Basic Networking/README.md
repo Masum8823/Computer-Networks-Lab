@@ -70,3 +70,21 @@ Network ব্যবহারের প্রধান কারণগুলো�
 - NIC (Network Interface Card)
 
 ---
+# Node
+
+## Definition
+
+Network-এর সাথে Connected যেকোনো Device-কে **Node** বলা হয়।
+
+### Example
+
+- PC
+- Laptop
+- Printer
+- Router
+- Switch
+
+> [!TIP]
+> **সব Host হলো Node, কিন্তু সব Node Host নয়।**
+
+---
