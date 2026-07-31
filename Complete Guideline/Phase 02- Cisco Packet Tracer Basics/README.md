@@ -93,3 +93,14 @@ Workspace হলো যেখানে আমরা Network Design করি।
 এখানে বাস্তব Room বা Building অনুযায়ী Network Layout দেখা যায়।
 
 ---
+
+# Device Categories
+
+Packet Tracer-এ বিভিন্ন ধরনের Device পাওয়া যায়।
+
+- Network Devices
+- End Devices
+- Connections
+- Wireless Devices
+
+---
