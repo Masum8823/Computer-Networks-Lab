@@ -166,3 +166,13 @@ Same Type Device Connect করতে।
 > তোমাদের Lab-এ Peer-to-Peer Network-এর জন্য সাধারণত Cross-Over Cable ব্যবহার করা হয়।
 
 ---
+
+## 3. Console Cable
+
+Router বা Switch Configure করার জন্য ব্যবহার করা হয়।
+
+### Example
+
+PC ↔ Router Console Port
+
+---
