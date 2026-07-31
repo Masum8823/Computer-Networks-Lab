@@ -42,3 +42,15 @@ Computer Network হলো দুই বা ততোধিক Computer বা D
 - University Campus Network
 
 ---
+# Why Do We Need a Network?
+
+Network ব্যবহারের প্রধান কারণগুলো—
+
+- File Sharing
+- Internet Sharing
+- Printer Sharing
+- Communication
+- Resource Sharing
+- Centralized Management
+
+---
