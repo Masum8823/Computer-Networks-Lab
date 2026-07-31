@@ -52,3 +52,11 @@ NIC (Network Interface Card) হলো এমন একটি Hardware Component
 > প্রতিটি NIC-এর একটি Unique MAC Address থাকে।
 
 ---
+
+# 2. Hub
+
+## Definition
+
+Hub হলো একটি **Layer 1 (Physical Layer)** Device।
+
+এটি কোনো Data বুঝতে পারে না। একটি Port-এ Data আসলে সেটি সব Port-এ পাঠিয়ে দেয়।
