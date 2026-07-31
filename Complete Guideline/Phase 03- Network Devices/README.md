@@ -169,3 +169,10 @@ LAN 2
 ## Definition
 
 Bridge হলো **Layer 2 Device**, যা দুটি LAN Segment-কে যুক্ত করে।
+
+### Functions
+
+- Network Traffic কমায়
+- MAC Address ব্যবহার করে
+
+---
