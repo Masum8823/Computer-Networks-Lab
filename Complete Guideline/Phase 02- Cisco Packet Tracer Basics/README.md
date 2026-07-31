@@ -262,3 +262,19 @@ Reply from 192.168.1.1
 | সাধারণ Lab | শেখার জন্য বেশি উপযোগী |
 
 ---
+
+# Common Errors
+
+> [!WARNING]
+> ভুল Cable ব্যবহার করলে Connection হবে না।
+
+> [!WARNING]
+> IP Address ভুল হলে Ping Fail করবে।
+
+> [!WARNING]
+> Different Network-এর IP দিলে Communication হবে না।
+
+> [!WARNING]
+> Router Interface Shutdown থাকলে Ping হবে না।
+
+---
