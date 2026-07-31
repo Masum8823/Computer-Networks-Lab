@@ -129,3 +129,17 @@ Network-এর সাথে Connected যেকোনো Device-কে **Node** 
 - University Server
 
 ---
+# Client-Server Model
+
+```text
+Client -------- Request -------->
+
+Server <-------- Response --------
+```
+
+উদাহরণ:
+
+- Browser → Client
+- Google → Server
+
+---
