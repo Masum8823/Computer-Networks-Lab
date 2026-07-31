@@ -30,3 +30,25 @@
 Network Device হলো এমন Hardware যা বিভিন্ন Computer বা Network-কে একে অপরের সাথে Connect করে এবং Data আদান-প্রদান নিশ্চিত করে।
 
 ---
+
+# 1. NIC (Network Interface Card)
+
+## Definition
+
+NIC (Network Interface Card) হলো এমন একটি Hardware Component যা Computer-কে Network-এর সাথে সংযুক্ত করে।
+
+### Functions
+
+- Network-এ Connect করে
+- MAC Address বহন করে
+- Data Send ও Receive করে
+
+### Example
+
+- Ethernet Card
+- Wi-Fi Card
+
+> [!IMPORTANT]
+> প্রতিটি NIC-এর একটি Unique MAC Address থাকে।
+
+---
