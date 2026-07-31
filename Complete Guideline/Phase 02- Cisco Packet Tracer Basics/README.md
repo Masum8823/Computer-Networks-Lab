@@ -129,3 +129,10 @@ Network তৈরির জন্য যেসব Device ব্যবহার �
 - Access Point
 
 ---
+# Connection Types
+
+Packet Tracer-এ Devices Connect করার জন্য বিভিন্ন Cable ব্যবহার করা হয়।
+
+সবচেয়ে গুরুত্বপূর্ণ Cable ৪টি।
+
+---
