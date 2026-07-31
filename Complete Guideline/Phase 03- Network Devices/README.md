@@ -155,3 +155,11 @@ LAN 1
    |
 LAN 2
 ```
+
+### Advantages
+
+- Different Network Connect করে
+- Best Path নির্বাচন করে
+- Security ভালো
+
+---
