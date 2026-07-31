@@ -163,3 +163,9 @@ LAN 2
 - Security ভালো
 
 ---
+
+# 5. Bridge
+
+## Definition
+
+Bridge হলো **Layer 2 Device**, যা দুটি LAN Segment-কে যুক্ত করে।
