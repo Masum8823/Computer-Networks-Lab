@@ -54,3 +54,19 @@ Network ব্যবহারের প্রধান কারণগুলো�
 - Centralized Management
 
 ---
+
+# Components of a Network
+
+একটি সাধারণ Network-এ সাধারণত নিচের Component থাকে।
+
+- Computer
+- Laptop
+- Server
+- Switch
+- Router
+- Hub
+- Access Point
+- Network Cable
+- NIC (Network Interface Card)
+
+---
