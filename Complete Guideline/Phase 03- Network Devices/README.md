@@ -343,3 +343,17 @@ Router-এর IP Address।
 - Default Gateway = Router IP
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Viva-তে সবচেয়ে বেশি জিজ্ঞেস করা হয়:
+>
+> - Hub vs Switch
+> - Switch vs Router
+> - Router কোন Layer?
+> - MAC Address কে ব্যবহার করে?
+> - IP Address কে ব্যবহার করে?
+
+> [!IMPORTANT]
+> শুধু Definition মুখস্থ করো না। প্রতিটি Device-এর **কাজ (Function)** এবং **OSI Layer**-ও মনে রাখবে।
