@@ -241,3 +241,15 @@ Gateway হলো এমন একটি Device, যা দুইটি ভি�
 | Connects | Same LAN | Same LAN | Different LAN |
 
 ---
+
+# OSI Layer Summary
+
+| Device | Layer |
+|----------|-------|
+| Hub | Layer 1 |
+| Repeater | Layer 1 |
+| Switch | Layer 2 |
+| Bridge | Layer 2 |
+| Router | Layer 3 |
+
+---
