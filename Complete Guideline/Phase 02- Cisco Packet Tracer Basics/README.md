@@ -197,3 +197,23 @@ Simulation Mode-এ Packet কীভাবে এক Device থেকে অন�
 এটি ARP, ICMP, RIP ইত্যাদি বোঝার জন্য খুবই গুরুত্বপূর্ণ।
 
 ---
+
+# Creating Your First Network
+
+ধাপ ১
+
+একটি PC নাও।
+
+ধাপ ২
+
+একটি Switch নাও।
+
+ধাপ ৩
+
+Copper Straight-Through Cable দিয়ে Connect করো।
+
+```text
+PC -------- Switch
+```
+
+---
