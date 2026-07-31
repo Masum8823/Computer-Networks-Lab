@@ -318,3 +318,16 @@ Local Area Network
 Wide Area Network
 
 ---
+
+# Common Mistakes
+
+> [!WARNING]
+> Node এবং Host-কে একই জিনিস মনে করবে না।
+
+> [!WARNING]
+> Bandwidth এবং Internet Speed এক জিনিস নয়।
+
+> [!WARNING]
+> Protocol মুখস্থ করলেই হবে না, কাজও জানতে হবে।
+
+---
