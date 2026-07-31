@@ -141,3 +141,17 @@ Router হলো **Layer 3 (Network Layer)** Device।
 - IP Address ব্যবহার করে
 - Routing করে
 - Internet Connect করে
+
+### Diagram
+
+```text
+LAN 1
+   |
+ Switch
+   |
+ Router
+   |
+ Switch
+   |
+LAN 2
+```
