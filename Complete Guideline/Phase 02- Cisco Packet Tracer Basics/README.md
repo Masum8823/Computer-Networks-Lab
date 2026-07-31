@@ -60,3 +60,16 @@ Packet Tracer ব্যবহারের প্রধান কারণগু�
 > বাস্তব Network Device ছাড়াই Lab Practice করার জন্য Packet Tracer সবচেয়ে জনপ্রিয় Software।
 
 ---
+# Packet Tracer Interface
+
+Packet Tracer খুললে প্রধানত নিচের অংশগুলো দেখা যায়।
+
+- Menu Bar
+- Toolbar
+- Workspace
+- Device List
+- Device Specific Selection
+- Realtime Mode
+- Simulation Mode
+
+---
