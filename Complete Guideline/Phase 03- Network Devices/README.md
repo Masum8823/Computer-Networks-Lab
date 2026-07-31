@@ -106,3 +106,10 @@ Switch হলো **Layer 2 (Data Link Layer)** Device।
 - Collision কম
 - Speed বেশি
 
+### Diagram
+
+```text
+      Switch
+    /    |    \
+  PC1   PC2   PC3
+```
