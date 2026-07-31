@@ -216,3 +216,14 @@ Access Point একটি Wireless Network Device, যা Wi-Fi-এর মাধ
 - Office Wireless Network
 
 ---
+
+# 9. Gateway
+
+## Definition
+
+Gateway হলো এমন একটি Device, যা দুইটি ভিন্ন ধরনের Network-এর মধ্যে Communication নিশ্চিত করে।
+
+> [!TIP]
+> Lab-এ "Default Gateway" বলতে সাধারণত Router-এর IP Address-কে বোঝানো হয়।
+
+---
