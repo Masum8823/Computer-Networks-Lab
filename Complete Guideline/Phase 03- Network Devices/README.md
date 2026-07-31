@@ -199,3 +199,7 @@ Modem-এর পূর্ণরূপ **Modulator-Demodulator**।
 এটি Digital Signal-কে Analog Signal-এ এবং Analog Signal-কে Digital Signal-এ রূপান্তর করে।
 
 ### Uses
+- ISP-এর Internet ব্যবহার করতে
+- Home Broadband Connection
+
+---
