@@ -343,3 +343,15 @@ Packet কোন কোন Router দিয়ে যায় তা দেখ�
 কারণ Switch MAC Address ব্যবহার করে, তাই Destination-এর MAC জানা প্রয়োজন।
 
 ---
+# Common Mistakes
+
+> [!WARNING]
+> ARP কখনো IP Address Assign করে না।
+
+> [!WARNING]
+> Ping MAC Address পরীক্ষা করে না, Connection পরীক্ষা করে।
+
+> [!WARNING]
+> ARP শুধু Local Network (LAN)-এ কাজ করে।
+
+---
