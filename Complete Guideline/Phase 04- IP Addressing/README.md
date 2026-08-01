@@ -179,3 +179,15 @@ Private IP শুধুমাত্র Local Area Network (LAN)-এ ব্যব
 Internet-এ সরাসরি ব্যবহার করা যায় না।
 
 ---
+# Private IP Ranges
+
+| Class | Range |
+|---------|----------------------------|
+| A | 10.0.0.0 – 10.255.255.255 |
+| B | 172.16.0.0 – 172.31.255.255 |
+| C | 192.168.0.0 – 192.168.255.255 |
+
+> [!IMPORTANT]
+> Viva-তে Private IP Range খুবই Common Question।
+
+---
