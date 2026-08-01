@@ -124,3 +124,21 @@ Hop Count = **3**
 5. সব Router Route শিখে ফেলে।
 
 ---
+
+# Network Diagram
+
+```mermaid
+graph LR
+
+PC1 --> SW1
+
+SW1 --> R1
+
+R1 --> R2
+
+R2 --> SW2
+
+SW2 --> PC2
+```
+
+---
