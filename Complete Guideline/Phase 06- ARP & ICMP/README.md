@@ -225,3 +225,14 @@ tracert google.com
 - Time Exceeded
 
 ---
+
+# ARP vs ICMP
+
+| ARP | ICMP |
+|------|------|
+| IP → MAC খুঁজে বের করে | Connection Test করে |
+| Local Network-এ কাজ করে | Network Diagnostic করে |
+| MAC Address নিয়ে কাজ করে | Error Message পাঠায় |
+| Broadcast Request | Echo Request/Reply |
+
+---
