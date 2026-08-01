@@ -265,3 +265,28 @@ Example
 Broadcast Address-এ Packet পাঠালে একই Network-এর সব Device Packet পায়।
 
 ---
+# Usable Host Address
+
+যে Addressগুলো Device-কে Assign করা যায়।
+
+Example
+
+```text
+Network
+
+192.168.1.0/24
+
+Usable Host
+
+192.168.1.1
+
+to
+
+192.168.1.254
+
+Broadcast
+
+192.168.1.255
+```
+
+---
