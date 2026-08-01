@@ -115,3 +115,12 @@ Hop Count = **3**
 > RIP-এ **16 Hop** মানে Destination-এ পৌঁছানো যাবে না।
 
 ---
+# How RIP Works
+
+1. Router নিজের Connected Network চিনে।
+2. পাশের Router-কে সেই তথ্য পাঠায়।
+3. পাশের Router নতুন Route শিখে।
+4. Routing Table Update হয়।
+5. সব Router Route শিখে ফেলে।
+
+---
