@@ -284,3 +284,11 @@ PC2
 - Manual Route লিখতে হয় না
 
 ---
+# Disadvantages
+
+- Slow Convergence
+- Maximum 15 Hop
+- Large Network-এর জন্য উপযুক্ত নয়
+- Bandwidth বেশি ব্যবহার করতে পারে
+
+---
