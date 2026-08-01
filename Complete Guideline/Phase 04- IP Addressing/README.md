@@ -171,3 +171,11 @@ Example
 ```
 
 ---
+
+ Private IP
+
+Private IP শুধুমাত্র Local Area Network (LAN)-এ ব্যবহার করা হয়।
+
+Internet-এ সরাসরি ব্যবহার করা যায় না।
+
+---
