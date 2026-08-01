@@ -31,3 +31,14 @@
 - Quick Revision
 
 ---
+# What is an IP Address?
+
+**IP (Internet Protocol) Address** হলো একটি **Logical Address**, যা Network-এর প্রতিটি Device-কে আলাদাভাবে শনাক্ত (Identify) করতে ব্যবহৃত হয়।
+
+### Example
+
+```text
+192.168.1.10
+```
+
+---
