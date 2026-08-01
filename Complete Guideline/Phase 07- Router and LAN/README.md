@@ -43,3 +43,17 @@
 একই Network-এর Device-গুলো Switch দিয়ে যোগাযোগ করতে পারে।
 
 কিন্তু যদি দুইটি Device **Different Network**-এ থাকে, তাহলে Router ছাড়া তারা যোগাযোগ করতে পারবে না।
+
+### Example
+
+```text
+PC0 → 192.168.1.10
+
+PC1 → 192.168.2.10
+```
+
+এরা Different Network-এ আছে।
+
+তাই Router দরকার।
+
+---
