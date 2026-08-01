@@ -102,3 +102,29 @@ Gateway
 ```
 
 ---
+
+# Network Diagram
+
+```mermaid
+graph LR
+
+PC0["192.168.1.10"]
+
+SW1["Switch"]
+
+R["Router"]
+
+SW2["Switch"]
+
+PC1["192.168.2.10"]
+
+PC0 --> SW1
+
+SW1 --> R
+
+R --> SW2
+
+SW2 --> PC1
+```
+
+---
