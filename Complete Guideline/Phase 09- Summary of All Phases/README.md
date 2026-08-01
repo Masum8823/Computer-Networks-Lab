@@ -264,3 +264,31 @@ show ip protocols
 - Hop 16 = Unreachable
 
 ---
+
+# Most Important Commands
+
+```bash
+ping
+```
+
+```bash
+arp -a
+```
+
+```bash
+ipconfig
+```
+
+```bash
+tracert
+```
+
+```bash
+show ip route
+```
+
+```bash
+show running-config
+```
+
+---
