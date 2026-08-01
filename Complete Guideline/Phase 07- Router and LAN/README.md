@@ -273,3 +273,17 @@ Reply from 192.168.2.10
 > Router Interface-এ ভুল IP Address দিলে Routing হবে না।
 
 ---
+
+# Troubleshooting Checklist
+
+Ping না হলে নিচের বিষয়গুলো পরীক্ষা করো—
+
+- Cable ঠিক আছে?
+- Router Interface Up আছে?
+- `no shutdown` দিয়েছ?
+- IP Address ঠিক?
+- Subnet Mask ঠিক?
+- Default Gateway ঠিক?
+- Router Interface-এর IP ঠিক?
+
+---
