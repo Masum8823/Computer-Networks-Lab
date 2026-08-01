@@ -143,3 +143,18 @@ Subnet Mask ব্যবহার করা হয় Network অংশ এব�
 ```
 
 ---
+# Default Gateway
+
+Default Gateway হলো Router-এর IP Address।
+
+যখন কোনো Device অন্য Network-এ Data পাঠায়, তখন প্রথমে Packet Gateway-এর কাছে যায়।
+
+Example
+
+```text
+Gateway
+
+192.168.1.1
+```
+
+---
