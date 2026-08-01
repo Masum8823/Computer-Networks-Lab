@@ -92,3 +92,12 @@ Example
 | C | 192.168.0.0 – 192.168.255.255 |
 
 ---
+
+# Special IP Address
+
+| Address | Purpose |
+|----------|----------|
+| 127.0.0.1 | Loopback |
+| 169.254.x.x | APIPA |
+
+---
