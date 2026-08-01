@@ -47,3 +47,13 @@ PC1 <--> PC2
 উভয় Computer সরাসরি একে অপরের সাথে Data Share করতে পারে।
 
 ---
+# Characteristics
+
+- No Dedicated Server
+- All Computers are Equal
+- Easy to Setup
+- Low Cost
+- Suitable for Small Networks
+- Direct Resource Sharing
+
+---
