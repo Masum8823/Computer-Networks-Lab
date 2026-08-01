@@ -180,3 +180,40 @@ end
 > `no shutdown` না দিলে Interface চালু হবে না।
 
 ---
+# PC Configuration
+
+## PC0
+
+```text
+IP Address
+
+192.168.1.10
+
+Subnet Mask
+
+255.255.255.0
+
+Default Gateway
+
+192.168.1.1
+```
+
+---
+
+## PC1
+
+```text
+IP Address
+
+192.168.2.10
+
+Subnet Mask
+
+255.255.255.0
+
+Default Gateway
+
+192.168.2.1
+```
+
+---
