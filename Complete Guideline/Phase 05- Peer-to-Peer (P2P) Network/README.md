@@ -171,3 +171,15 @@ TTL=128
 তাহলে Connection সফল।
 
 ---
+
+# Ping Flow
+
+```mermaid
+graph LR
+
+PC0 -->|"ICMP Echo Request"| PC1
+
+PC1 -->|"ICMP Echo Reply"| PC0
+```
+
+---
