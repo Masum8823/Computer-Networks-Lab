@@ -368,3 +368,18 @@ Packet কোন কোন Router দিয়ে যায় তা দেখ�
 - ARP আগে, তারপর ICMP
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Viva-তে খুব Common প্রশ্ন:
+>
+> - ARP-এর কাজ কী?
+> - ARP Request Broadcast কেন?
+> - ARP Reply Unicast কেন?
+> - Ping কোন Protocol ব্যবহার করে?
+> - `arp -a` কী দেখায়?
+> - Tracert-এর কাজ কী?
+
+> [!IMPORTANT]
+> **মনে রাখবে:** যখন প্রথমবার Ping দাও, তখন আগে **ARP** চলে (MAC Address বের করার জন্য), তারপর **ICMP Echo Request** যায়। এই Flow টা বুঝতে পারলে ARP ও ICMP দুটোই পরিষ্কার হয়ে যাবে।
