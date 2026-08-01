@@ -236,3 +236,36 @@ tracert google.com
 | Broadcast Request | Echo Request/Reply |
 
 ---
+# ARP + Ping Complete Flow
+
+```text
+PC0
+ │
+ │ Ping 192.168.1.2
+ │
+ ▼
+
+ARP Request
+
+↓
+
+ARP Reply
+
+↓
+
+MAC Found
+
+↓
+
+ICMP Echo Request
+
+↓
+
+ICMP Echo Reply
+
+↓
+
+Ping Successful
+```
+
+---
