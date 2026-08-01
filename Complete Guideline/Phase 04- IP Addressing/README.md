@@ -42,3 +42,16 @@
 ```
 
 ---
+
+# Why Do We Need an IP Address?
+
+IP Address ব্যবহার করা হয়—
+
+- Device Identify করতে
+- Data সঠিক Destination-এ পাঠাতে
+- Network Communication করতে
+
+> [!IMPORTANT]
+> IP Address ছাড়া Router কোনো Device-এ Packet পাঠাতে পারে না।
+
+---
