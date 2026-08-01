@@ -269,3 +269,15 @@ Ping Successful
 ```
 
 ---
+# Packet Tracer Simulation
+
+Simulation Mode-এ সাধারণত দেখা যায়—
+
+- ARP Request
+- ARP Reply
+- ICMP Echo Request
+- ICMP Echo Reply
+
+এগুলো পর্যায়ক্রমে ঘটে।
+
+---
