@@ -233,3 +233,21 @@ Router-->>PC0: Reply
 ```
 
 ---
+
+# Testing the Network
+
+PC0 থেকে—
+
+```bash
+ping 192.168.2.10
+```
+
+যদি Reply আসে—
+
+```text
+Reply from 192.168.2.10
+```
+
+তাহলে Configuration সঠিক।
+
+---
