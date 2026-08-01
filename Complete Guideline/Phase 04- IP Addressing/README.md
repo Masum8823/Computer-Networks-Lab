@@ -105,3 +105,19 @@ Octet Octet Octet Octet
 ```
 
 ---
+
+
+# Network ID
+
+Network ID হলো IP Address-এর সেই অংশ যা Network-কে শনাক্ত করে।
+
+Example
+
+```text
+IP : 192.168.1.10
+Mask : 255.255.255.0
+
+Network ID = 192.168.1.0
+```
+
+---
