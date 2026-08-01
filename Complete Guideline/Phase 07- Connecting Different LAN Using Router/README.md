@@ -274,3 +274,13 @@ PC2
 ```
 
 ---
+
+# Advantages
+
+- Automatic Routing
+- Easy Configuration
+- Route Automatically Update হয়
+- Small Network-এর জন্য ভালো
+- Manual Route লিখতে হয় না
+
+---
