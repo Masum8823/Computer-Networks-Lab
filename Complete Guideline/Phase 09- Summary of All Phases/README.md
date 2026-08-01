@@ -292,3 +292,97 @@ show running-config
 ```
 
 ---
+
+# 30 Most Common Viva Questions
+
+### 1. Computer Network কী?
+দুই বা ততোধিক Device-এর মধ্যে Data ও Resource Share করার ব্যবস্থা।
+
+### 2. Node কী?
+Network-এর সাথে Connected যেকোনো Device।
+
+### 3. Host কী?
+IP Address থাকা Device।
+
+### 4. Protocol কী?
+Communication Rules।
+
+### 5. Hub কোন Layer?
+Layer 1
+
+### 6. Switch কোন Layer?
+Layer 2
+
+### 7. Router কোন Layer?
+Layer 3
+
+### 8. Switch কোন Address ব্যবহার করে?
+MAC Address
+
+### 9. Router কোন Address ব্যবহার করে?
+IP Address
+
+### 10. IPv4 কত Bit?
+32 Bit
+
+### 11. IPv6 কত Bit?
+128 Bit
+
+### 12. Loopback Address কত?
+127.0.0.1
+
+### 13. APIPA Range কত?
+169.254.0.0/16
+
+### 14. Default Gateway কী?
+Router-এর IP Address।
+
+### 15. Private IP Range বলো।
+10.x.x.x, 172.16–31.x.x, 192.168.x.x
+
+### 16. ARP-এর কাজ কী?
+IP → MAC Address বের করা।
+
+### 17. ARP Request কেমন?
+Broadcast
+
+### 18. ARP Reply কেমন?
+Unicast
+
+### 19. Ping কোন Protocol ব্যবহার করে?
+ICMP
+
+### 20. ICMP-এর কাজ কী?
+Network Test ও Error Reporting।
+
+### 21. RIP-এর পূর্ণরূপ কী?
+Routing Information Protocol।
+
+### 22. RIP কোন Metric ব্যবহার করে?
+Hop Count
+
+### 23. Maximum Hop Count কত?
+15
+
+### 24. Hop 16 মানে কী?
+Destination Unreachable
+
+### 25. Peer-to-Peer কী?
+Dedicated Server ছাড়া Network।
+
+### 26. Straight Cable কোথায় ব্যবহার হয়?
+Different Devices
+
+### 27. Cross Cable কোথায় ব্যবহার হয়?
+Same Devices
+
+### 28. Console Cable-এর কাজ কী?
+Router/Switch Configure করা।
+
+### 29. `no shutdown` কেন ব্যবহার করা হয়?
+Interface চালু করার জন্য।
+
+### 30. `show ip route` কী দেখায়?
+Routing Table।
+
+---
