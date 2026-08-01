@@ -220,3 +220,29 @@ end
 > RIP Version 2 ব্যবহার করাই ভালো, কারণ এটি CIDR/VLSM Support করে।
 
 ---
+
+# Verify RIP
+
+Routing Table দেখার জন্য—
+
+```bash
+show ip route
+```
+
+---
+
+RIP Configuration দেখার জন্য—
+
+```bash
+show running-config
+```
+
+---
+
+RIP Information দেখার জন্য—
+
+```bash
+show ip protocols
+```
+
+---
