@@ -45,3 +45,13 @@ MAC Address
 ```
 
 ---
+
+# Why ARP is Needed?
+
+Switch Data Forward করার জন্য **MAC Address** ব্যবহার করে।
+
+কিন্তু আমরা সাধারণত জানি **IP Address**।
+
+তাই Communication শুরু হওয়ার আগে IP থেকে MAC বের করতে ARP ব্যবহার করা হয়।
+
+---
