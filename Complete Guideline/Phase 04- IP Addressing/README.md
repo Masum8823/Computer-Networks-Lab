@@ -251,3 +251,17 @@ Network Address
 ```
 
 ---
+
+# Broadcast Address
+
+Network-এর শেষ Address।
+
+Example
+
+```text
+192.168.1.255
+```
+
+Broadcast Address-এ Packet পাঠালে একই Network-এর সব Device Packet পায়।
+
+---
