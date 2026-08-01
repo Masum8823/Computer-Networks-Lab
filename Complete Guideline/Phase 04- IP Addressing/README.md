@@ -234,3 +234,20 @@ Range
 | E | 240 – 255 | Research |
 
 ---
+# Network Address
+
+Network-এর প্রথম Address।
+
+Example
+
+```text
+IP
+
+192.168.1.10/24
+
+Network Address
+
+192.168.1.0
+```
+
+---
