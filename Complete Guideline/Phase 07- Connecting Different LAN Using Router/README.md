@@ -410,3 +410,16 @@ Route Automatically Update হয়।
 
 ---
 
+# Exam Tips
+
+> [!TIP]
+> Lab Viva-তে সবচেয়ে Common প্রশ্ন:
+>
+> - RIP-এর পূর্ণরূপ কী?
+> - RIP কোন Metric ব্যবহার করে?
+> - Maximum Hop Count কত?
+> - Hop 16 মানে কী?
+> - `show ip route` Command-এর কাজ কী?
+
+> [!IMPORTANT]
+> শুধু Command মুখস্থ করলেই হবে না। **কেন `network` Command দিতে হয়**, **কেন `version 2` ব্যবহার করা হয়**, আর **Hop Count কীভাবে Route নির্বাচন করে**—এগুলোও বুঝে রাখবে।
