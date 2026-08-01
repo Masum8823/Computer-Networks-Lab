@@ -148,3 +148,35 @@ SW2 --> PC1
 | Router G0/1 | 192.168.2.1 |
 
 ---
+# Router Configuration
+
+Router CLI-তে লিখুন—
+
+```bash
+enable
+
+configure terminal
+
+interface gigabitEthernet0/0
+
+ip address 192.168.1.1 255.255.255.0
+
+no shutdown
+
+exit
+
+interface gigabitEthernet0/1
+
+ip address 192.168.2.1 255.255.255.0
+
+no shutdown
+
+exit
+
+end
+```
+
+> [!IMPORTANT]
+> `no shutdown` না দিলে Interface চালু হবে না।
+
+---
