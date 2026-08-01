@@ -30,3 +30,17 @@
 | WAN | Country / World |
 
 ---
+
+# Network Devices
+
+| Device | Layer | Uses |
+|---------|-------|------|
+| Hub | Layer 1 | Broadcast |
+| Switch | Layer 2 | MAC Address |
+| Router | Layer 3 | IP Address |
+| Bridge | Layer 2 | Connect LAN Segments |
+| Repeater | Layer 1 | Signal Boost |
+| Modem | Layer 1 | Digital ↔ Analog |
+| Access Point | Layer 2 | Wireless Network |
+
+---
