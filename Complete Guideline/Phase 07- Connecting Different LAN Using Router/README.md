@@ -36,3 +36,19 @@ PC → Switch → Router → Switch → PC
 ```
 
 ---
+
+# Static Routing vs Dynamic Routing
+
+| Static Routing | Dynamic Routing |
+|---------------|-----------------|
+| Route নিজে লিখতে হয় | Route নিজে নিজে শেখে |
+| ছোট Network | বড় Network |
+| কম Flexible | বেশি Flexible |
+| Manual | Automatic |
+
+> [!IMPORTANT]
+> **Static Routing = Manual**
+>
+> **Dynamic Routing = Automatic**
+
+---
