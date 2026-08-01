@@ -367,3 +367,17 @@ Different Network-এর মধ্যে Communication করার জন্য
 - `ping` = Test Connectivity
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Lab Exam-এ সবচেয়ে বেশি ভুল হয় **Default Gateway** এবং **no shutdown** Command-এ। এগুলো অবশ্যই মনে রাখবে।
+
+> [!IMPORTANT]
+> মনে রাখার Shortcut:
+>
+> - **Switch → Same LAN**
+> - **Router → Different LAN**
+> - **Switch → MAC Address**
+> - **Router → IP Address**
+> - **Gateway = Router-এর IP**
