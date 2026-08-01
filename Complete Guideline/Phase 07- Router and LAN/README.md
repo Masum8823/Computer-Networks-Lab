@@ -82,3 +82,4 @@ Router-এর বিভিন্ন Port-কে **Interface** বলা হয�
 প্রতিটি Interface-এ আলাদা IP Address দেওয়া যায়।
 
 ---
+
