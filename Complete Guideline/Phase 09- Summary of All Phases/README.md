@@ -244,3 +244,13 @@ show ip protocols
 | Connects | Same LAN | Same LAN | Different LAN |
 
 ---
+
+# Peer-to-Peer
+
+- No Dedicated Server
+- Low Cost
+- Easy Setup
+- Small Network
+- All Computers Equal
+
+---
