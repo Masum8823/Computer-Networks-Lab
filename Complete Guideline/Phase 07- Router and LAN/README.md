@@ -217,3 +217,19 @@ Default Gateway
 ```
 
 ---
+
+# Communication Flow
+
+```mermaid
+sequenceDiagram
+
+PC0->>Router: Packet
+
+Router->>PC1: Forward Packet
+
+PC1-->>Router: Reply
+
+Router-->>PC0: Reply
+```
+
+---
