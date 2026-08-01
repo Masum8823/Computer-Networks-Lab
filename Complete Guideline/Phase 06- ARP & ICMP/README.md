@@ -160,3 +160,9 @@ arp -a
 ```
 
 ---
+
+# What is ICMP?
+
+**ICMP (Internet Control Message Protocol)** হলো এমন একটি Protocol যা Network Error Report এবং Connection Test-এর জন্য ব্যবহৃত হয়।
+
+---
