@@ -254,3 +254,13 @@ show ip protocols
 - All Computers Equal
 
 ---
+
+# RIP
+
+- Dynamic Routing Protocol
+- Distance Vector
+- Metric = Hop Count
+- Maximum Hop = 15
+- Hop 16 = Unreachable
+
+---
