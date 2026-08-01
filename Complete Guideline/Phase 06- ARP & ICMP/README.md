@@ -23,4 +23,25 @@
 - Quick Revision
 
 ---
+# What is ARP?
 
+**ARP (Address Resolution Protocol)** এমন একটি Protocol যা **IP Address থেকে MAC Address খুঁজে বের করে।**
+
+> [!IMPORTANT]
+> **ARP = IP → MAC**
+
+Example:
+
+```text
+IP Address
+
+192.168.1.10
+
+↓
+
+MAC Address
+
+00:1A:2B:3C:4D:5E
+```
+
+---
