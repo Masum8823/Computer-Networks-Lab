@@ -101,3 +101,15 @@ Example
 | 169.254.x.x | APIPA |
 
 ---
+
+# Address Summary
+
+| Name | Meaning |
+|------|----------|
+| IP Address | Logical Address |
+| MAC Address | Physical Address |
+| Network Address | First Address |
+| Broadcast Address | Last Address |
+| Default Gateway | Router-এর IP |
+
+---
