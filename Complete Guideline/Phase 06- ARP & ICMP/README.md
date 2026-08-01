@@ -146,3 +146,17 @@ ARP Reply শুধুমাত্র Request করা Device-এর কাছ�
 এটি **Unicast Message**।
 
 ---
+
+# ARP Cache
+
+একবার MAC Address পাওয়ার পরে Computer সেটি কিছু সময়ের জন্য **ARP Cache**-এ সংরক্ষণ করে।
+
+এর ফলে বারবার ARP Request পাঠাতে হয় না।
+
+Windows-এ দেখতে—
+
+```bash
+arp -a
+```
+
+---
