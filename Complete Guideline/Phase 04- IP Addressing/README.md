@@ -158,3 +158,16 @@ Gateway
 ```
 
 ---
+# Public IP
+
+Public IP হলো এমন IP Address যা Internet-এ ব্যবহার করা যায়।
+
+এটি ISP প্রদান করে।
+
+Example
+
+```text
+103.45.12.50
+```
+
+---
