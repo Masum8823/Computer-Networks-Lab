@@ -314,3 +314,17 @@ PC2
 > ভুল IP Address বা Subnet Mask দিলে Ping Fail করবে।
 
 ---
+# Troubleshooting Checklist
+
+Ping না হলে—
+
+- Cable ঠিক আছে?
+- Interface Up?
+- no shutdown দিয়েছ?
+- IP Address ঠিক?
+- Subnet Mask ঠিক?
+- RIP Enable?
+- Network Command ঠিক?
+- show ip route-এ Route এসেছে?
+
+---
