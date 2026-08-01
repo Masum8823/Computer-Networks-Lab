@@ -328,3 +328,4 @@ Ping না হলে—
 - show ip route-এ Route এসেছে?
 
 ---
+
