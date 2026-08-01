@@ -71,3 +71,33 @@ PC → Switch → Router → Switch → PC
 - ছোট Network-এর জন্য উপযুক্ত
 
 ---
+
+# What is Hop Count?
+
+**Hop Count** মানে Source থেকে Destination-এ যেতে কতগুলো Router অতিক্রম করতে হয়।
+
+Example
+
+```text
+PC
+
+↓
+
+Router1
+
+↓
+
+Router2
+
+↓
+
+Router3
+
+↓
+
+PC
+```
+
+Hop Count = **3**
+
+---
