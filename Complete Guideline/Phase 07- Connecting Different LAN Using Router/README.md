@@ -394,3 +394,18 @@ CIDR ও VLSM Support করার জন্য।
 Route Automatically Update হয়।
 
 ---
+
+# Quick Revision
+
+- RIP = Routing Information Protocol
+- Dynamic Routing Protocol
+- Distance Vector Protocol
+- Metric = Hop Count
+- Maximum Hop = 15
+- Hop 16 = Unreachable
+- `router rip` = RIP Enable
+- `version 2` = RIP v2
+- `network` = Advertise Network
+- `show ip route` = Routing Table
+
+---
