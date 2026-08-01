@@ -301,3 +301,78 @@ Broadcast
 | Switch ব্যবহার করে | Router ব্যবহার করে |
 
 ---
+# Viva Questions
+
+### 1. IP Address কী?
+
+Network-এ Device Identify করার জন্য ব্যবহৃত Logical Address।
+
+---
+
+### 2. IPv4 কত Bit?
+
+32 Bit
+
+---
+
+### 3. IPv6 কত Bit?
+
+128 Bit
+
+---
+
+### 4. Subnet Mask কী?
+
+Network এবং Host অংশ আলাদা করার Mask।
+
+---
+
+### 5. Default Gateway কী?
+
+Router-এর IP Address।
+
+---
+
+### 6. Private IP Range কী?
+
+- 10.0.0.0/8
+- 172.16.0.0/12
+- 192.168.0.0/16
+
+---
+
+### 7. Loopback Address কত?
+
+127.0.0.1
+
+---
+
+### 8. APIPA Range কত?
+
+169.254.0.0 – 169.254.255.255
+
+---
+
+### 9. Network Address কী?
+
+Network-এর প্রথম Address।
+
+---
+
+### 10. Broadcast Address কী?
+
+Network-এর শেষ Address।
+
+---
+
+### 11. Router কোন Address ব্যবহার করে?
+
+IP Address
+
+---
+
+### 12. Switch কোন Address ব্যবহার করে?
+
+MAC Address
+
+---
