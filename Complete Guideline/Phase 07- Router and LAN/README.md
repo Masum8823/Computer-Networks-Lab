@@ -37,3 +37,9 @@
 > Router **MAC Address নয়**, **IP Address** দেখে Packet Forward করে।
 
 ---
+
+# Why Do We Need a Router?
+
+একই Network-এর Device-গুলো Switch দিয়ে যোগাযোগ করতে পারে।
+
+কিন্তু যদি দুইটি Device **Different Network**-এ থাকে, তাহলে Router ছাড়া তারা যোগাযোগ করতে পারবে না।
