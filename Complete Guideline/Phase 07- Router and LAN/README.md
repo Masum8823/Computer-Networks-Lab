@@ -21,3 +21,7 @@
 - Quick Revision
 
 ---
+
+# What is a Router?
+
+**Router** হলো একটি **Layer 3 (Network Layer)** Device, যা **IP Address** ব্যবহার করে এক Network থেকে অন্য Network-এ Data পাঠায়।
