@@ -246,3 +246,31 @@ show ip protocols
 ```
 
 ---
+
+# Communication Flow
+
+```text
+PC1
+
+↓
+
+Switch
+
+↓
+
+Router1
+
+↓
+
+Router2
+
+↓
+
+Switch
+
+↓
+
+PC2
+```
+
+---
