@@ -52,3 +52,10 @@ PC → Switch → Router → Switch → PC
 > **Dynamic Routing = Automatic**
 
 ---
+# What is RIP?
+
+**RIP (Routing Information Protocol)** হলো একটি Dynamic Routing Protocol।
+
+এটি Router-দের মধ্যে Routing Information Exchange করে।
+
+---
