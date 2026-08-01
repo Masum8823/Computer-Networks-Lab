@@ -386,3 +386,26 @@ Interface চালু করার জন্য।
 Routing Table।
 
 ---
+
+# Final Exam Tips
+
+> [!TIP]
+> নিচের জিনিসগুলো অবশ্যই মুখস্থ রাখবে:
+>
+> - Hub → Layer 1
+> - Switch → Layer 2
+> - Router → Layer 3
+> - Switch → MAC
+> - Router → IP
+> - IPv4 → 32 Bit
+> - IPv6 → 128 Bit
+> - Loopback → 127.0.0.1
+> - APIPA → 169.254.x.x
+> - ARP = IP → MAC
+> - ICMP = Ping
+> - RIP = Hop Count
+> - Maximum Hop = 15
+> - Hop 16 = Unreachable
+> - Default Gateway = Router IP
+
+---
