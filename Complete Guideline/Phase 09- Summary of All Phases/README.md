@@ -124,3 +124,22 @@ Example
 | Fiber | Long Distance |
 
 ---
+# ARP
+
+**ARP = Address Resolution Protocol**
+
+কাজ:
+
+IP Address → MAC Address
+
+ARP Request = Broadcast
+
+ARP Reply = Unicast
+
+Command
+
+```bash
+arp -a
+```
+
+---
