@@ -251,3 +251,25 @@ Reply from 192.168.2.10
 তাহলে Configuration সঠিক।
 
 ---
+
+# Common Errors
+
+> [!WARNING]
+> Router Interface-এ `no shutdown` না দিলে Interface **Administratively Down** থাকবে।
+
+---
+
+> [!WARNING]
+> ভুল Default Gateway দিলে Different LAN-এ Ping হবে না।
+
+---
+
+> [!WARNING]
+> ভুল Subnet Mask দিলে Communication Fail করবে।
+
+---
+
+> [!WARNING]
+> Router Interface-এ ভুল IP Address দিলে Routing হবে না।
+
+---
