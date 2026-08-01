@@ -389,3 +389,21 @@ MAC Address
 > Public IP এবং Private IP গুলিয়ে ফেলবে না।
 
 ---
+
+# Quick Revision
+
+- IP Address = Logical Address
+- IPv4 = 32 Bit
+- IPv6 = 128 Bit
+- Router = IP Address
+- Switch = MAC Address
+- Default Gateway = Router IP
+- Network Address = First Address
+- Broadcast Address = Last Address
+- Loopback = 127.0.0.1
+- APIPA = 169.254.x.x
+- Private Class A = 10.x.x.x
+- Private Class B = 172.16–31.x.x
+- Private Class C = 192.168.x.x
+
+---
