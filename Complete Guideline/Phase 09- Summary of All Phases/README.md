@@ -232,3 +232,15 @@ show ip protocols
 ```
 
 ---
+
+# Hub vs Switch vs Router
+
+| Feature | Hub | Switch | Router |
+|----------|-----|--------|---------|
+| Layer | 1 | 2 | 3 |
+| Address | None | MAC | IP |
+| Broadcast | Yes | No | No |
+| Speed | Low | High | High |
+| Connects | Same LAN | Same LAN | Different LAN |
+
+---
