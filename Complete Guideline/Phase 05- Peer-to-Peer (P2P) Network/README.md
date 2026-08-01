@@ -77,3 +77,36 @@ PC2 সরাসরি File Access করলো।
 কোনো Server ব্যবহার হলো না।
 
 ---
+
+# Packet Tracer Lab
+
+## Step 1
+
+Packet Tracer খুলুন।
+
+---
+
+## Step 2
+
+দুটি PC নিন।
+
+```text
+PC0
+
+PC1
+```
+
+---
+
+## Step 3
+
+Copper Cross-Over Cable দিয়ে Connect করুন।
+
+```text
+PC0 ----------- PC1
+```
+
+> [!TIP]
+> Packet Tracer-এর Basic Lab-এ সাধারণত **Copper Cross-Over Cable** ব্যবহার করা হয়।
+
+---
