@@ -376,3 +376,16 @@ IP Address
 MAC Address
 
 ---
+
+# Common Mistakes
+
+> [!WARNING]
+> IP Address এবং MAC Address এক জিনিস নয়।
+
+> [!WARNING]
+> Network Address ও Broadcast Address Host হিসেবে ব্যবহার করা যায় না।
+
+> [!WARNING]
+> Public IP এবং Private IP গুলিয়ে ফেলবে না।
+
+---
