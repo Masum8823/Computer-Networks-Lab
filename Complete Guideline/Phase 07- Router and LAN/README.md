@@ -89,3 +89,16 @@ Router-এর বিভিন্ন Port-কে **Interface** বলা হয�
 
 যখন কোনো PC অন্য Network-এ Data পাঠাতে চায়, তখন প্রথমে Packet Gateway-এর কাছে যায়।
 
+### Example
+
+```text
+PC IP
+
+192.168.1.10
+
+Gateway
+
+192.168.1.1
+```
+
+---
