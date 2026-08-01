@@ -19,3 +19,14 @@
 | Protocol | Communication Rules |
 
 ---
+
+# Network Types
+
+| Type | Coverage |
+|------|----------|
+| PAN | Personal |
+| LAN | Room / Building |
+| MAN | City |
+| WAN | Country / World |
+
+---
