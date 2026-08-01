@@ -212,3 +212,19 @@ PC1 -->|"ICMP Echo Reply"| PC0
 | Low Security | High Security |
 
 ---
+# Common Errors
+
+> [!WARNING]
+> Different Network-এর IP দিলে Ping হবে না।
+
+---
+
+> [!WARNING]
+> একই IP দুইটি PC-তে দিলে **IP Conflict** হবে।
+
+---
+
+> [!WARNING]
+> ভুল Cable ব্যবহার করলে Link Down হতে পারে।
+
+---
