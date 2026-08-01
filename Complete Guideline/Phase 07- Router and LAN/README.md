@@ -57,3 +57,13 @@ PC1 → 192.168.2.10
 তাই Router দরকার।
 
 ---
+
+# Same LAN vs Different LAN
+
+| Same LAN | Different LAN |
+|----------|---------------|
+| Switch যথেষ্ট | Router লাগবে |
+| Gateway দরকার নাও হতে পারে | Default Gateway অবশ্যই লাগবে |
+| সরাসরি Ping সম্ভব | Router ছাড়া Ping হবে না |
+
+---
