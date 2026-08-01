@@ -329,3 +329,68 @@ Ping না হলে—
 
 ---
 
+# Viva Questions
+
+### 1. RIP-এর পূর্ণরূপ কী?
+
+Routing Information Protocol
+
+---
+
+### 2. RIP কী?
+
+একটি Dynamic Routing Protocol।
+
+---
+
+### 3. RIP কোন ধরনের Routing Protocol?
+
+Distance Vector Routing Protocol।
+
+---
+
+### 4. RIP কোন Metric ব্যবহার করে?
+
+Hop Count।
+
+---
+
+### 5. RIP-এর Maximum Hop Count কত?
+
+15
+
+---
+
+### 6. Hop Count 16 হলে কী হয়?
+
+Destination Unreachable।
+
+---
+
+### 7. Routing Table দেখার Command কী?
+
+```bash
+show ip route
+```
+
+---
+
+### 8. RIP Configuration শুরু করার Command কী?
+
+```bash
+router rip
+```
+
+---
+
+### 9. RIP Version 2 কেন ব্যবহার করা হয়?
+
+CIDR ও VLSM Support করার জন্য।
+
+---
+
+### 10. Dynamic Routing-এর সুবিধা কী?
+
+Route Automatically Update হয়।
+
+---
