@@ -101,3 +101,17 @@ PC
 Hop Count = **3**
 
 ---
+# RIP Metric
+
+| Hop Count | Status |
+|-----------|---------|
+| 1 | Best Route |
+| 2 | Good |
+| 5 | Acceptable |
+| 15 | Maximum |
+| 16 | Unreachable |
+
+> [!WARNING]
+> RIP-এ **16 Hop** মানে Destination-এ পৌঁছানো যাবে না।
+
+---
