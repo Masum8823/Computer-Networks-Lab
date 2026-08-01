@@ -407,3 +407,20 @@ MAC Address
 - Private Class C = 192.168.x.x
 
 ---
+
+# Exam Tips
+
+> [!TIP]
+> Viva-তে প্রায়ই জিজ্ঞেস করা হয়:
+>
+> - IPv4 কত Bit?
+> - IPv6 কত Bit?
+> - Private IP Range
+> - Loopback Address
+> - Network Address
+> - Broadcast Address
+> - Default Gateway
+> - Router vs Switch (IP vs MAC)
+
+> [!IMPORTANT]
+> **Private IP Range, Loopback Address, APIPA এবং IPv4 Classes** অবশ্যই মুখস্থ রাখবে। এগুলো Lab Quiz-তে খুবই Common।
