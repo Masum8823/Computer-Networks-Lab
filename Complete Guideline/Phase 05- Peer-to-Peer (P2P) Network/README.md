@@ -201,3 +201,14 @@ PC1 -->|"ICMP Echo Reply"| PC0
 - Performance কমে যায় যখন Computer সংখ্যা বাড়ে
 
 ---
+# Peer-to-Peer vs Client-Server
+
+| Peer-to-Peer | Client-Server |
+|---------------|--------------|
+| No Dedicated Server | Dedicated Server থাকে |
+| Low Cost | High Cost |
+| Easy Setup | Complex Setup |
+| Small Network | Large Network |
+| Low Security | High Security |
+
+---
