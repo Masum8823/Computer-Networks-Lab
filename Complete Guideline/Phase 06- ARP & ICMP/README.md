@@ -215,3 +215,13 @@ tracert google.com
 ```
 
 ---
+# ICMP Messages
+
+কিছু গুরুত্বপূর্ণ ICMP Message—
+
+- Echo Request
+- Echo Reply
+- Destination Unreachable
+- Time Exceeded
+
+---
