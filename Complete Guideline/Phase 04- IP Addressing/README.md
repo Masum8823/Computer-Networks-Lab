@@ -55,3 +55,20 @@ IP Address ব্যবহার করা হয়—
 > IP Address ছাড়া Router কোনো Device-এ Packet পাঠাতে পারে না।
 
 ---
+# IPv4
+
+IPv4-এর পূর্ণরূপ **Internet Protocol Version 4**।
+
+### Features
+
+- 32-bit Address
+- 4 Octets
+- Decimal Format
+
+Example
+
+```text
+192.168.1.10
+```
+
+---
