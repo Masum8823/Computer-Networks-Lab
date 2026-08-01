@@ -204,3 +204,14 @@ PC1-->>PC0: ICMP Echo Reply
 ```
 
 ---
+# Tracert
+
+Tracert Command ব্যবহার করা হয় Packet কোন কোন Router অতিক্রম করে Destination-এ পৌঁছায় তা দেখার জন্য।
+
+Command
+
+```bash
+tracert google.com
+```
+
+---
