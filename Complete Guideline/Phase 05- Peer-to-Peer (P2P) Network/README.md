@@ -183,3 +183,13 @@ PC1 -->|"ICMP Echo Reply"| PC0
 ```
 
 ---
+# Advantages
+
+- Easy Setup
+- Low Cost
+- No Dedicated Server Required
+- Easy File Sharing
+- Suitable for Home Network
+- Suitable for Small Office
+
+---
