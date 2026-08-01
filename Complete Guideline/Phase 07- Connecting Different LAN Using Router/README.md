@@ -59,3 +59,15 @@ PC → Switch → Router → Switch → PC
 এটি Router-দের মধ্যে Routing Information Exchange করে।
 
 ---
+
+# Features of RIP
+
+- Dynamic Routing Protocol
+- Distance Vector Protocol
+- Metric হিসেবে Hop Count ব্যবহার করে
+- Maximum Hop Count = 15
+- Hop 16 = Unreachable
+- সহজ Configuration
+- ছোট Network-এর জন্য উপযুক্ত
+
+---
