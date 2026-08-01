@@ -57,3 +57,23 @@ PC1 <--> PC2
 - Direct Resource Sharing
 
 ---
+
+# How Peer-to-Peer Works
+
+ধরো দুটি Computer আছে।
+
+```text
+PC1 ------------ PC2
+```
+
+PC1 একটি File Share করলো।
+
+↓
+
+PC2 সরাসরি File Access করলো।
+
+↓
+
+কোনো Server ব্যবহার হলো না।
+
+---
