@@ -191,3 +191,21 @@ Internet-এ সরাসরি ব্যবহার করা যায় ন
 > Viva-তে Private IP Range খুবই Common Question।
 
 ---
+
+# Loopback Address
+
+Loopback Address নিজের Computer Test করার জন্য ব্যবহার করা হয়।
+
+Default Loopback
+
+```text
+127.0.0.1
+```
+
+পুরো Loopback Range
+
+```text
+127.0.0.0 – 127.255.255.255
+```
+
+---
