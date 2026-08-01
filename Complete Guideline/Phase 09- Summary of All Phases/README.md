@@ -113,3 +113,14 @@ Example
 | Default Gateway | Router-এর IP |
 
 ---
+
+# Cable Summary
+
+| Cable | Uses |
+|---------|------|
+| Straight Through | Different Devices |
+| Cross Over | Same Devices |
+| Console | Configure Router/Switch |
+| Fiber | Long Distance |
+
+---
