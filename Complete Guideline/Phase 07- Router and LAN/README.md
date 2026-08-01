@@ -67,3 +67,18 @@ PC1 → 192.168.2.10
 | সরাসরি Ping সম্ভব | Router ছাড়া Ping হবে না |
 
 ---
+
+# Router Interfaces
+
+Router-এর বিভিন্ন Port-কে **Interface** বলা হয়।
+
+উদাহরণ:
+
+- GigabitEthernet0/0
+- GigabitEthernet0/1
+- FastEthernet0/0
+- FastEthernet0/1
+
+প্রতিটি Interface-এ আলাদা IP Address দেওয়া যায়।
+
+---
