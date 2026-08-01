@@ -166,3 +166,29 @@ arp -a
 **ICMP (Internet Control Message Protocol)** হলো এমন একটি Protocol যা Network Error Report এবং Connection Test-এর জন্য ব্যবহৃত হয়।
 
 ---
+
+# Ping
+
+Ping Command ব্যবহার করা হয় Network Connection ঠিক আছে কিনা পরীক্ষা করার জন্য।
+
+Ping ICMP ব্যবহার করে।
+
+Example
+
+```bash
+ping 192.168.1.2
+```
+
+Successful হলে—
+
+```text
+Reply from 192.168.1.2
+
+Bytes=32
+
+Time<1ms
+
+TTL=128
+```
+
+---
