@@ -142,3 +142,32 @@ SW2 --> PC2
 ```
 
 ---
+# Example IP Addressing
+
+## Router 1
+
+```text
+LAN
+
+192.168.1.0/24
+
+Serial
+
+10.0.0.1/30
+```
+
+---
+
+## Router 2
+
+```text
+LAN
+
+192.168.2.0/24
+
+Serial
+
+10.0.0.2/30
+```
+
+---
