@@ -355,3 +355,16 @@ Packet কোন কোন Router দিয়ে যায় তা দেখ�
 > ARP শুধু Local Network (LAN)-এ কাজ করে।
 
 ---
+# Quick Revision
+
+- ARP = Address Resolution Protocol
+- ARP = IP → MAC
+- ARP Request = Broadcast
+- ARP Reply = Unicast
+- ARP Cache = `arp -a`
+- ICMP = Internet Control Message Protocol
+- Ping = ICMP Echo Request/Reply
+- Tracert = Route Check
+- ARP আগে, তারপর ICMP
+
+---
