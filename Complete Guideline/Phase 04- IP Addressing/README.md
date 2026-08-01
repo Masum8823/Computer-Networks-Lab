@@ -72,3 +72,20 @@ Example
 ```
 
 ---
+# IPv6
+
+IPv6-এর পূর্ণরূপ **Internet Protocol Version 6**।
+
+### Features
+
+- 128-bit Address
+- Hexadecimal Format
+- IPv4-এর তুলনায় অনেক বেশি Address Support করে
+
+Example
+
+```text
+2001:0db8:85a3::8a2e:0370:7334
+```
+
+---
