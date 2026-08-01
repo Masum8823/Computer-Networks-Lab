@@ -217,3 +217,18 @@ no auto-summary
 ```
 
 ---
+# Verification Commands
+
+```bash
+show ip route
+```
+
+```bash
+show running-config
+```
+
+```bash
+show ip protocols
+```
+
+---
