@@ -291,3 +291,17 @@ IP Conflict হবে।
 না।
 
 ---
+# Quick Revision
+
+- P2P = Peer-to-Peer
+- No Dedicated Server
+- All Computers are Equal
+- Client + Server একই Computer হতে পারে
+- Small Network
+- Low Cost
+- Easy Setup
+- ICMP = Ping
+- Same Network IP Required
+- Wrong IP = Ping Fail
+
+---
