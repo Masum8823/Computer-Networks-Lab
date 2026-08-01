@@ -171,3 +171,52 @@ Serial
 ```
 
 ---
+
+# RIP Configuration
+
+## Router 1
+
+```bash
+enable
+
+configure terminal
+
+router rip
+
+version 2
+
+network 192.168.1.0
+
+network 10.0.0.0
+
+no auto-summary
+
+end
+```
+
+---
+
+## Router 2
+
+```bash
+enable
+
+configure terminal
+
+router rip
+
+version 2
+
+network 192.168.2.0
+
+network 10.0.0.0
+
+no auto-summary
+
+end
+```
+
+> [!IMPORTANT]
+> RIP Version 2 ব্যবহার করাই ভালো, কারণ এটি CIDR/VLSM Support করে।
+
+---
