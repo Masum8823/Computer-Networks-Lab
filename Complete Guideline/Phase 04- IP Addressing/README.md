@@ -89,3 +89,19 @@ Example
 ```
 
 ---
+
+# IPv4 Structure
+
+```text
+192 . 168 . 1 . 10
+ │     │     │    │
+Octet Octet Octet Octet
+```
+
+প্রতিটি Octet-এর Range:
+
+```text
+0 – 255
+```
+
+---
