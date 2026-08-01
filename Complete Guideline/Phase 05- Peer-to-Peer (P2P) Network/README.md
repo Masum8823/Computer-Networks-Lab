@@ -193,3 +193,11 @@ PC1 -->|"ICMP Echo Reply"| PC0
 - Suitable for Small Office
 
 ---
+# Disadvantages
+
+- Low Security
+- No Central Management
+- Difficult Backup
+- Performance কমে যায় যখন Computer সংখ্যা বাড়ে
+
+---
