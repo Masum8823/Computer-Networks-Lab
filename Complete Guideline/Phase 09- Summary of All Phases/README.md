@@ -143,3 +143,20 @@ arp -a
 ```
 
 ---
+
+# ICMP
+
+**ICMP = Internet Control Message Protocol**
+
+Uses
+
+- Ping
+- Error Reporting
+
+Command
+
+```bash
+ping 192.168.1.1
+```
+
+---
