@@ -139,3 +139,10 @@ ARP Request সব Device-এর কাছে যায়।
 এটি একটি **Broadcast Message**।
 
 ---
+# ARP Reply
+
+ARP Reply শুধুমাত্র Request করা Device-এর কাছে যায়।
+
+এটি **Unicast Message**।
+
+---
