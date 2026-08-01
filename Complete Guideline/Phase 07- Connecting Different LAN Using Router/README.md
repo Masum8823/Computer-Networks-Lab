@@ -23,3 +23,16 @@
 - Quick Revision
 
 ---
+# What is Routing?
+
+**Routing** হলো একটি Network থেকে অন্য Network-এ Data পাঠানোর জন্য সঠিক পথ (Route) নির্বাচন করার প্রক্রিয়া।
+
+Router এই কাজটি করে।
+
+Example
+
+```text
+PC → Switch → Router → Switch → PC
+```
+
+---
