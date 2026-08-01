@@ -22,3 +22,16 @@
 - Quick Revision
 
 ---
+
+# What is a Peer-to-Peer (P2P) Network?
+
+**Peer-to-Peer (P2P)** হলো এমন একটি Network যেখানে **সব Computer সমান (Equal)**।
+
+এখানে কোনো Dedicated Server থাকে না।
+
+প্রতিটি Computer প্রয়োজনে **Client** এবং **Server**—দুইভাবেই কাজ করতে পারে।
+
+> [!IMPORTANT]
+> **No Dedicated Server = Peer-to-Peer Network**
+
+---
