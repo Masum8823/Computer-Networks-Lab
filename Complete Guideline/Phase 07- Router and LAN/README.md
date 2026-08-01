@@ -83,3 +83,9 @@ Router-এর বিভিন্ন Port-কে **Interface** বলা হয�
 
 ---
 
+# Default Gateway
+
+**Default Gateway** হলো Router-এর Interface-এর IP Address।
+
+যখন কোনো PC অন্য Network-এ Data পাঠাতে চায়, তখন প্রথমে Packet Gateway-এর কাছে যায়।
+
