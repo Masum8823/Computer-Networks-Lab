@@ -132,3 +132,14 @@ Host ID = 10
 ```
 
 ---
+# Subnet Mask
+
+Subnet Mask ব্যবহার করা হয় Network অংশ এবং Host অংশ আলাদা করার জন্য।
+
+সবচেয়ে Common Subnet Mask
+
+```text
+255.255.255.0
+```
+
+---
