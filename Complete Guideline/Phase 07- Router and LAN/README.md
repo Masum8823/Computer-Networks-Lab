@@ -286,4 +286,69 @@ Ping না হলে নিচের বিষয়গুলো পরীক�
 - Default Gateway ঠিক?
 - Router Interface-এর IP ঠিক?
 
+---\
+# Viva Questions
+
+### 1. Router কী?
+
+Router হলো Layer 3 Device, যা Different Network Connect করে।
+
+---
+
+### 2. Router কোন Address ব্যবহার করে?
+
+IP Address
+
+---
+
+### 3. Router কোন Layer-এ কাজ করে?
+
+Layer 3 (Network Layer)
+
+---
+
+### 4. Default Gateway কী?
+
+Router-এর Interface-এর IP Address।
+
+---
+
+### 5. Different LAN Connect করতে কী লাগে?
+
+Router
+
+---
+
+### 6. `no shutdown` Command-এর কাজ কী?
+
+Interface চালু (Enable) করা।
+
+---
+
+### 7. Router Configuration Mode-এ যেতে কোন Command ব্যবহার করা হয়?
+
+```bash
+configure terminal
+```
+
+---
+
+### 8. Interface Configure করতে কোন Command ব্যবহার করা হয়?
+
+```bash
+interface gigabitEthernet0/0
+```
+
+---
+
+### 9. Ping কেন ব্যবহার করা হয়?
+
+Network Connection পরীক্ষা করার জন্য।
+
+---
+
+### 10. Router কেন দরকার?
+
+Different Network-এর মধ্যে Communication করার জন্য।
+
 ---
