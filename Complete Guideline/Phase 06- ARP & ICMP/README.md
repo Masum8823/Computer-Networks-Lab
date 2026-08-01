@@ -132,3 +132,10 @@ Switch-->>PC0: Reply
 ```
 
 ---
+# ARP Request
+
+ARP Request সব Device-এর কাছে যায়।
+
+এটি একটি **Broadcast Message**।
+
+---
