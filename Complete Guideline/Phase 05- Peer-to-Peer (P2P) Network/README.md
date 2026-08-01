@@ -148,3 +148,26 @@ PC0 <-- Copper Cross-Over --> PC1
 ```
 
 ---
+# Testing Connectivity
+
+PC0-এর Command Prompt খুলে লিখুন—
+
+```bash
+ping 192.168.1.2
+```
+
+যদি নিচের মতো Reply আসে—
+
+```text
+Reply from 192.168.1.2
+
+Bytes=32
+
+Time<1ms
+
+TTL=128
+```
+
+তাহলে Connection সফল।
+
+---
