@@ -55,3 +55,64 @@ Switch Data Forward করার জন্য **MAC Address** ব্যবহা
 তাই Communication শুরু হওয়ার আগে IP থেকে MAC বের করতে ARP ব্যবহার করা হয়।
 
 ---
+
+# How ARP Works
+
+ধরো,
+
+```text
+PC0
+
+192.168.1.1
+```
+
+চাইছে
+
+```text
+PC1
+
+192.168.1.2
+```
+
+কিন্তু PC0 জানে না PC1-এর MAC Address।
+
+তখন—
+
+### Step 1
+
+PC0 একটি **ARP Request Broadcast** পাঠায়।
+
+```
+Who has 192.168.1.2 ?
+Tell 192.168.1.1
+```
+
+↓
+
+### Step 2
+
+সব Device Request পায়।
+
+↓
+
+### Step 3
+
+শুধু PC1 Reply দেয়।
+
+```
+192.168.1.2 is at
+
+AA:BB:CC:DD:EE:FF
+```
+
+↓
+
+### Step 4
+
+PC0 MAC Address Save করে।
+
+↓
+
+Communication শুরু হয়।
+
+---
