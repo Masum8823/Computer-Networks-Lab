@@ -281,3 +281,65 @@ Simulation Mode-এ সাধারণত দেখা যায়—
 এগুলো পর্যায়ক্রমে ঘটে।
 
 ---
+
+# Viva Questions
+
+### 1. ARP-এর পূর্ণরূপ কী?
+
+Address Resolution Protocol
+
+---
+
+### 2. ARP কী কাজ করে?
+
+IP Address থেকে MAC Address বের করে।
+
+---
+
+### 3. ARP Request Broadcast নাকি Unicast?
+
+Broadcast
+
+---
+
+### 4. ARP Reply Broadcast নাকি Unicast?
+
+Unicast
+
+---
+
+### 5. ICMP-এর পূর্ণরূপ কী?
+
+Internet Control Message Protocol
+
+---
+
+### 6. Ping কোন Protocol ব্যবহার করে?
+
+ICMP
+
+---
+
+### 7. Ping-এর কাজ কী?
+
+Network Connection পরীক্ষা করা।
+
+---
+
+### 8. arp -a Command-এর কাজ কী?
+
+ARP Cache দেখায়।
+
+---
+
+### 9. Tracert-এর কাজ কী?
+
+Packet কোন কোন Router দিয়ে যায় তা দেখায়।
+
+---
+
+### 10. Communication-এর আগে ARP কেন দরকার?
+
+কারণ Switch MAC Address ব্যবহার করে, তাই Destination-এর MAC জানা প্রয়োজন।
+
+---
