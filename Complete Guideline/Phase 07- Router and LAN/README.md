@@ -352,3 +352,18 @@ Network Connection পরীক্ষা করার জন্য।
 Different Network-এর মধ্যে Communication করার জন্য।
 
 ---
+
+# Quick Revision
+
+- Router = Layer 3 Device
+- Router = Uses IP Address
+- Different LAN = Router Required
+- Default Gateway = Router IP
+- `enable` = Privileged Mode
+- `configure terminal` = Global Configuration
+- `interface g0/0` = Interface Select
+- `ip address` = Assign IP
+- `no shutdown` = Enable Interface
+- `ping` = Test Connectivity
+
+---
