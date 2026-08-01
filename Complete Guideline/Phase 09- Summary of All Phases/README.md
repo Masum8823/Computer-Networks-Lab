@@ -160,3 +160,27 @@ ping 192.168.1.1
 ```
 
 ---
+
+# Ping Flow
+
+```text
+ARP Request
+
+↓
+
+ARP Reply
+
+↓
+
+ICMP Echo Request
+
+↓
+
+ICMP Echo Reply
+
+↓
+
+Success
+```
+
+---
