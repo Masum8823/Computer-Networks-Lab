@@ -292,3 +292,25 @@ PC2
 - Bandwidth বেশি ব্যবহার করতে পারে
 
 ---
+
+# Common Errors
+
+> [!WARNING]
+> ভুল Network Address দিলে RIP Route শিখবে না।
+
+---
+
+> [!WARNING]
+> দুই Router-এ RIP Enable না করলে Communication হবে না।
+
+---
+
+> [!WARNING]
+> Interface Down থাকলে Route Exchange হবে না।
+
+---
+
+> [!WARNING]
+> ভুল IP Address বা Subnet Mask দিলে Ping Fail করবে।
+
+---
