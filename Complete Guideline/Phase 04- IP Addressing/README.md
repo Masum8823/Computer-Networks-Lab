@@ -209,3 +209,17 @@ Default Loopback
 ```
 
 ---
+
+# APIPA
+
+APIPA = **Automatic Private IP Addressing**
+
+যখন DHCP Server থেকে IP পাওয়া যায় না, তখন Windows নিজে APIPA Address Assign করে।
+
+Range
+
+```text
+169.254.0.0 – 169.254.255.255
+```
+
+---
