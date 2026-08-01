@@ -305,3 +305,16 @@ IP Conflict হবে।
 - Wrong IP = Ping Fail
 
 ---
+# Exam Tips
+
+> [!TIP]
+> Viva-তে "Peer-to-Peer আর Client-Server-এর পার্থক্য" প্রায়ই জিজ্ঞেস করা হয়।
+
+> [!IMPORTANT]
+> মনে রাখবে—
+>
+> - No Dedicated Server
+> - Equal Computers
+> - Same Network IP
+> - Ping = ICMP
+> - Cross-Over Cable (Lab Context)
