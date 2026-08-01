@@ -192,3 +192,15 @@ TTL=128
 ```
 
 ---
+
+# Ping Packet Flow
+
+```mermaid
+sequenceDiagram
+
+PC0->>PC1: ICMP Echo Request
+
+PC1-->>PC0: ICMP Echo Reply
+```
+
+---
