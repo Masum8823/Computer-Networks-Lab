@@ -116,3 +116,19 @@ PC0 MAC Address Save করে।
 Communication শুরু হয়।
 
 ---
+
+# ARP Packet Flow
+
+```mermaid
+sequenceDiagram
+
+PC0->>Switch: ARP Request (Broadcast)
+
+Switch->>PC1: Broadcast
+
+PC1-->>Switch: ARP Reply
+
+Switch-->>PC0: Reply
+```
+
+---
