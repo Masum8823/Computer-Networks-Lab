@@ -290,3 +290,14 @@ Broadcast
 ```
 
 ---
+
+# MAC Address vs IP Address
+
+| MAC Address | IP Address |
+|-------------|------------|
+| Physical Address | Logical Address |
+| NIC-এ থাকে | Software দ্বারা Assign হয় |
+| Layer 2 | Layer 3 |
+| Switch ব্যবহার করে | Router ব্যবহার করে |
+
+---
