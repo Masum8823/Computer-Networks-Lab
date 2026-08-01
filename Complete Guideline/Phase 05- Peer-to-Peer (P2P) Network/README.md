@@ -228,3 +228,66 @@ PC1 -->|"ICMP Echo Reply"| PC0
 > ভুল Cable ব্যবহার করলে Link Down হতে পারে।
 
 ---
+# Viva Questions
+
+### 1. Peer-to-Peer Network কী?
+
+যে Network-এ Dedicated Server থাকে না এবং সব Computer সমানভাবে কাজ করে।
+
+---
+
+### 2. Dedicated Server থাকে?
+
+না।
+
+---
+
+### 3. প্রতিটি Computer কী হিসেবে কাজ করতে পারে?
+
+Client এবং Server—দুইভাবেই।
+
+---
+
+### 4. Peer-to-Peer কোথায় ব্যবহার করা হয়?
+
+- Home Network
+- Small Office
+- Computer Lab
+
+---
+
+### 5. Peer-to-Peer-এর সবচেয়ে বড় সুবিধা কী?
+
+Easy Setup এবং Low Cost।
+
+---
+
+### 6. সবচেয়ে বড় অসুবিধা কী?
+
+Security কম।
+
+---
+
+### 7. Ping কেন ব্যবহার করা হয়?
+
+Connection পরীক্ষা করার জন্য।
+
+---
+
+### 8. Ping কোন Protocol ব্যবহার করে?
+
+ICMP
+
+---
+
+### 9. দুইটি PC-এর IP একই হলে কী হবে?
+
+IP Conflict হবে।
+
+---
+
+### 10. দুইটি PC Different Network-এ থাকলে Ping হবে?
+
+না।
+
+---
