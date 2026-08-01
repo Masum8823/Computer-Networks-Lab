@@ -110,3 +110,28 @@ PC0 ----------- PC1
 > Packet Tracer-এর Basic Lab-এ সাধারণত **Copper Cross-Over Cable** ব্যবহার করা হয়।
 
 ---
+
+# IP Configuration
+
+## PC0
+
+```text
+IP Address : 192.168.1.1
+
+Subnet Mask : 255.255.255.0
+```
+
+---
+
+## PC1
+
+```text
+IP Address : 192.168.1.2
+
+Subnet Mask : 255.255.255.0
+```
+
+> [!IMPORTANT]
+> দুইটি PC-কে একই Network-এর IP দিতে হবে।
+
+---
