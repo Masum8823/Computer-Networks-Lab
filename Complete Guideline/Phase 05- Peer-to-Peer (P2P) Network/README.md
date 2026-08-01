@@ -35,3 +35,15 @@
 > **No Dedicated Server = Peer-to-Peer Network**
 
 ---
+
+# P2P Architecture
+
+```mermaid
+graph LR
+
+PC1 <--> PC2
+```
+
+উভয় Computer সরাসরি একে অপরের সাথে Data Share করতে পারে।
+
+---
