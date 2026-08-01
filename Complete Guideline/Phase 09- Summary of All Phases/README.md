@@ -44,3 +44,30 @@
 | Access Point | Layer 2 | Wireless Network |
 
 ---
+
+# IP Address
+
+## IPv4
+
+- 32 Bit
+- 4 Octets
+
+Example
+
+```text
+192.168.1.10
+```
+
+---
+
+## IPv6
+
+- 128 Bit
+
+Example
+
+```text
+2001:db8::1
+```
+
+---
