@@ -135,3 +135,16 @@ Subnet Mask : 255.255.255.0
 > দুইটি PC-কে একই Network-এর IP দিতে হবে।
 
 ---
+# Network Diagram
+
+```mermaid
+graph LR
+
+PC0["192.168.1.1"]
+
+PC1["192.168.1.2"]
+
+PC0 <-- Copper Cross-Over --> PC1
+```
+
+---
