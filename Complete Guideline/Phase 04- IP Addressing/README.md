@@ -121,3 +121,14 @@ Network ID = 192.168.1.0
 ```
 
 ---
+# Host ID
+
+Host ID হলো IP Address-এর সেই অংশ যা Network-এর ভিতরে নির্দিষ্ট Device-কে শনাক্ত করে।
+
+Example
+
+```text
+Host ID = 10
+```
+
+---
