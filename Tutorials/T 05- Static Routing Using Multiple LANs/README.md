@@ -7,6 +7,7 @@
 ## Connection in Cisco Packet Tracer:
 
 
+![config](static-routing.png)
 
 ---
 
