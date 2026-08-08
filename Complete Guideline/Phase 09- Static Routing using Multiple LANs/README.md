@@ -116,3 +116,49 @@ Administrator-কে manually route define করতে হয়।
 > **Static Routing = Manual Route Configuration**
 
 ---
+
+# Network Topology
+
+```text
+                         WAN
+                    10.10.0.0/24
+                          
+      LAN 1                  LAN 2
+  192.168.1.0/24         192.168.2.0/24
+       |                       |
+      PCs                     PCs
+       |                       |
+    Switch                  Switch
+       |                       |
+       +------ Router 1 -------+
+                   |
+                   |
+              10.10.0.1
+                   |
+                   |
+              10.10.0.2
+                   |
+               Router 4
+                   |
+                   |
+                Switch
+                   |
+                PC5, PC6
+                   
+             LAN 3
+         192.168.3.0/24
+```
+
+### Simple View
+
+```text
+PC0 ─┐
+PC1 ─┼─ Switch ── Router 1 ───── Router 4 ── Switch ── PC5
+PC2 ─┘             │     WAN        │                    PC6
+                   │                │
+                  LAN 2            LAN 3
+                   │
+              PC3, PC4
+```
+
+---
