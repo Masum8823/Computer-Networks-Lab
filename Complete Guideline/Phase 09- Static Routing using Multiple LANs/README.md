@@ -213,3 +213,49 @@ Router 4: 10.10.0.2
 > WAN network-এর দুই Router interface একই subnet-এর হতে হবে।
 
 ---
+
+
+# IP Addressing Table
+
+## LAN 1
+
+| Device | IP Address    | Subnet Mask     | Default Gateway |
+| ------ | ------------- | --------------- | --------------- |
+| PC0    | `192.168.1.2` | `255.255.255.0` | `192.168.1.1`   |
+| PC1    | `192.168.1.3` | `255.255.255.0` | `192.168.1.1`   |
+| PC2    | `192.168.1.4` | `255.255.255.0` | `192.168.1.1`   |
+
+---
+
+## LAN 2
+
+| Device | IP Address    | Subnet Mask     | Default Gateway |
+| ------ | ------------- | --------------- | --------------- |
+| PC3    | `192.168.2.2` | `255.255.255.0` | `192.168.2.1`   |
+| PC4    | `192.168.2.3` | `255.255.255.0` | `192.168.2.1`   |
+
+---
+
+## LAN 3
+
+| Device | IP Address    | Subnet Mask     | Default Gateway |
+| ------ | ------------- | --------------- | --------------- |
+| PC5    | `192.168.3.2` | `255.255.255.0` | `192.168.3.1`   |
+| PC6    | `192.168.3.3` | `255.255.255.0` | `192.168.3.1`   |
+
+---
+
+## Router Interface Table
+
+| Router   | Interface | IP Address    | Connected Network |
+| -------- | --------- | ------------- | ----------------- |
+| Router 1 | Gi0/0     | `192.168.1.1` | LAN 1             |
+| Router 1 | Gi0/2     | `192.168.2.1` | LAN 2             |
+| Router 1 | Gi0/1     | `10.10.0.1`   | WAN               |
+| Router 4 | Gi0/0     | `10.10.0.2`   | WAN               |
+| Router 4 | Gi0/1     | `192.168.3.1` | LAN 3             |
+
+> [!NOTE]
+> Router model অনুযায়ী interface name আলাদা হতে পারে। Packet Tracer-এ তোমার actual interface দেখে command দিতে হবে।
+
+---
