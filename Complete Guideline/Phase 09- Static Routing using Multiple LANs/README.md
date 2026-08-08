@@ -162,3 +162,54 @@ PC2 ─┘             │     WAN        │                    PC6
 ```
 
 ---
+
+# IP Planning
+
+এই lab-এ মোট **4টি network** ব্যবহার করা হয়েছে:
+
+1. LAN 1
+2. LAN 2
+3. LAN 3
+4. WAN Link
+
+---
+
+## LAN 1
+
+```text
+Network Address : 192.168.1.0/24
+Gateway         : 192.168.1.1
+```
+
+---
+
+## LAN 2
+
+```text
+Network Address : 192.168.2.0/24
+Gateway         : 192.168.2.1
+```
+
+---
+
+## LAN 3
+
+```text
+Network Address : 192.168.3.0/24
+Gateway         : 192.168.3.1
+```
+
+---
+
+## WAN Link
+
+```text
+Network : 10.10.0.0
+Router 1: 10.10.0.1
+Router 4: 10.10.0.2
+```
+
+> [!NOTE]
+> WAN network-এর দুই Router interface একই subnet-এর হতে হবে।
+
+---
