@@ -259,3 +259,55 @@ Router 4: 10.10.0.2
 > Router model অনুযায়ী interface name আলাদা হতে পারে। Packet Tracer-এ তোমার actual interface দেখে command দিতে হবে।
 
 ---
+
+# Physical Setup
+
+Cisco Packet Tracer-এ নিচের devices place করো।
+
+| Device                           |    Quantity |
+| -------------------------------- | ----------: |
+| Router                           |           2 |
+| Switch                           |           3 |
+| PC                               |           7 |
+| Copper Straight-Through Cable    | As Required |
+| Copper Cross-Over / Serial Cable | As Required |
+
+---
+
+## Device Arrangement
+
+### LAN 1
+
+```text
+PC0
+PC1
+PC2
+ ↓
+Switch
+ ↓
+Router 1
+```
+
+### LAN 2
+
+```text
+PC3
+PC4
+ ↓
+Switch
+ ↓
+Router 1
+```
+
+### LAN 3
+
+```text
+Router 4
+ ↓
+Switch
+ ↓
+PC5
+PC6
+```
+
+---
