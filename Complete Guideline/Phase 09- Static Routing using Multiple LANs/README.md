@@ -35,3 +35,17 @@
 * [Exam Tips](#exam-tips)
 
 ---
+
+# Overview
+
+এই lab-এ **দুইটি Router** ব্যবহার করে **তিনটি আলাদা LAN/Subnet** connect করা হয়েছে।
+
+Topology-তে:
+
+* Router 1-এর সাথে LAN 1 এবং LAN 2 connected।
+* Router 4-এর সাথে LAN 3 connected।
+* Router 1 এবং Router 4 একটি WAN link-এর মাধ্যমে connected।
+* দুই Router-এর মধ্যে **Static Route** configure করা হয়েছে।
+* এরপর এক LAN থেকে অন্য LAN-এ `ping` এবং **Simple PDU** ব্যবহার করে connectivity test করা হয়েছে।
+
+---
