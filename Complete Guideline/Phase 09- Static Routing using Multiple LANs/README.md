@@ -95,3 +95,24 @@ ip route 192.168.3.0 255.255.255.0 10.10.0.2
 > `192.168.3.0/24` network-এ যেতে হলে packet-কে `10.10.0.2` Router-এর দিকে পাঠাতে হবে।
 
 ---
+
+# Static Routing-এর মূল ধারণা
+
+```text
+Source Network
+      ↓
+Router
+      ↓
+Next-Hop Router
+      ↓
+Destination Network
+```
+
+Static Routing-এ Router নিজে থেকে remote network শেখে না।
+
+Administrator-কে manually route define করতে হয়।
+
+> [!IMPORTANT]
+> **Static Routing = Manual Route Configuration**
+
+---
