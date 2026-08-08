@@ -49,3 +49,49 @@ Topology-তে:
 * এরপর এক LAN থেকে অন্য LAN-এ `ping` এবং **Simple PDU** ব্যবহার করে connectivity test করা হয়েছে।
 
 ---
+
+# What is Routing?
+
+**Routing** হলো একটি network থেকে অন্য network-এ data packet পাঠানোর জন্য appropriate path নির্বাচন করার process।
+
+Router Routing Table ব্যবহার করে destination network অনুযায়ী packet forward করে।
+
+Example:
+
+```text
+PC
+ ↓
+Switch
+ ↓
+Router
+ ↓
+Another Router
+ ↓
+Switch
+ ↓
+PC
+```
+
+---
+
+# What is Static Routing?
+
+**Static Routing** হলো একটি routing method যেখানে Administrator manually Router-এর Routing Table-এ route configure করে।
+
+Static Route সাধারণত এই format-এ configure করা হয়:
+
+```bash
+ip route <destination-network> <subnet-mask> <next-hop-ip>
+```
+
+Example:
+
+```bash
+ip route 192.168.3.0 255.255.255.0 10.10.0.2
+```
+
+এর অর্থ:
+
+> `192.168.3.0/24` network-এ যেতে হলে packet-কে `10.10.0.2` Router-এর দিকে পাঠাতে হবে।
+
+---
